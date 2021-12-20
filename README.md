@@ -44,9 +44,6 @@
 - [fix letter case differences between module path and namespace](https://github.com/vanilla-thunder/oxid-module-staticbrutto/pull/5) on [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) (8 months ago)
 - [Save Remarks loses oxcreate date](https://github.com/OXID-eSales/oxideshop_ce/pull/857) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (9 months ago)
 
-#### 📓 Gists I wrote
-
-
 #### ⭐ Recent Stars
 
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (6 months ago)
@@ -59,12 +56,6 @@
 - [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (2 years ago)
 - [splitbrain/php-cli](https://github.com/splitbrain/php-cli) - PHP library to build command line tools (2 years ago)
 - [imapsync/imapsync](https://github.com/imapsync/imapsync) - Imapsync is an IMAP transfers tool. The purpose of imapsync is to migrate IMAP accounts or to backup IMAP accounts. IMAP is one of the three current standard protocols to access mailboxes, the two others are POP3 and HTTP with webmails, webmails are often tied to an IMAP server. Upstream website is  (2 years ago)
-
-#### ❤️ These awesome people sponsor me (thank you!)
-
-
-#### 👯 Check out some of my recent followers
-
 
 #### 💬 Feedback
 
