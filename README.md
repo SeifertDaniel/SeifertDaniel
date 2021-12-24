@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (2 days ago)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (6 days ago)
+- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 days ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (1 week ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (1 week ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (1 month ago)
@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (6 days ago)
+- [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 week ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 week ago)
 - [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 week ago)
 - [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (3 months ago)
-- [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (4 months ago)
+- [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (5 months ago)
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (5 months ago)
 - [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (6 months ago)
 - [make installable in PHP 8.0](https://github.com/OXIDprojects/switch-shop/pull/3) on [OXIDprojects/switch-shop](https://github.com/OXIDprojects/switch-shop) (7 months ago)
