@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (6 days ago)
+- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 weeks ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (2 weeks ago)
