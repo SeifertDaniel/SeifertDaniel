@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 week ago)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 weeks ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 weeks ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (2 weeks ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (1 month ago)
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 week ago)
+- [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 weeks ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 weeks ago)
 - [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 weeks ago)
 - [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (3 months ago)
