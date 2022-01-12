@@ -8,8 +8,8 @@
 
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 weeks ago)
-- [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (4 weeks ago)
-- [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (4 weeks ago)
+- [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (1 month ago)
+- [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (1 month ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (1 month ago)
 - [d3datadevelopment/.github](https://github.com/d3datadevelopment/.github) -  (1 month ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (2 months ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (6 months ago)
+- [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (7 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (9 months ago)
 - [firephp/firephp-core](https://github.com/firephp/firephp-core) - FirePHP server library for sending PHP variables to the browser. (2 years ago)
 - [gleero/grunt-favicons](https://github.com/gleero/grunt-favicons) - Generate favicon.ico and icons for iOS, Android and WP8 (2 years ago)
