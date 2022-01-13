@@ -6,13 +6,13 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (today)
+- [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (1 day ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 weeks ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (1 month ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (1 month ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (1 month ago)
-- [d3datadevelopment/.github](https://github.com/d3datadevelopment/.github) -  (1 month ago)
+- [d3datadevelopment/.github](https://github.com/d3datadevelopment/.github) -  (2 months ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (2 months ago)
 - [SeifertDaniel/packagist_dummy](https://github.com/SeifertDaniel/packagist_dummy) -  (3 months ago)
 - [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) - Composer plugin to download translation files from wordpress.org (3 months ago)
@@ -34,8 +34,8 @@
 #### 🔨 My recent Pull Requests
 
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (3 weeks ago)
-- [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (3 weeks ago)
-- [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (3 weeks ago)
+- [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (4 weeks ago)
+- [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (4 weeks ago)
 - [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (3 months ago)
 - [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (5 months ago)
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (6 months ago)
