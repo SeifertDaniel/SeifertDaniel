@@ -29,7 +29,6 @@
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 2 years ago) - 
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) ([6.5.1.072](https://github.com/d3datadevelopment/ExtSearch/releases/tag/6.5.1.072), 2 years ago) - Extended search module for OXID eShop
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 2 years ago) - D³ Module Connector for OXID eShop
-- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 2 years ago) - Add a printorder function
 
 #### 🔨 My recent Pull Requests
 
