@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 days ago)
-- [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (5 days ago)
-- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 weeks ago)
+- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (4 days ago)
+- [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (6 days ago)
+- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (4 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (1 month ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (1 month ago)
@@ -40,7 +40,7 @@
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (6 months ago)
 - [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (7 months ago)
 - [make installable in PHP 8.0](https://github.com/OXIDprojects/switch-shop/pull/3) on [OXIDprojects/switch-shop](https://github.com/OXIDprojects/switch-shop) (8 months ago)
-- [fix letter case differences between module path and namespace](https://github.com/vanilla-thunder/oxid-module-staticbrutto/pull/5) on [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) (8 months ago)
+- [fix letter case differences between module path and namespace](https://github.com/vanilla-thunder/oxid-module-staticbrutto/pull/5) on [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) (9 months ago)
 - [Save Remarks loses oxcreate date](https://github.com/OXID-eSales/oxideshop_ce/pull/857) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (10 months ago)
 
 #### ⭐ Recent Stars
