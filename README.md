@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (today)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 month ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 month ago)
 - [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 month ago)
@@ -42,7 +43,6 @@
 - [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (7 months ago)
 - [make installable in PHP 8.0](https://github.com/OXIDprojects/switch-shop/pull/3) on [OXIDprojects/switch-shop](https://github.com/OXIDprojects/switch-shop) (9 months ago)
 - [fix letter case differences between module path and namespace](https://github.com/vanilla-thunder/oxid-module-staticbrutto/pull/5) on [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) (9 months ago)
-- [Save Remarks loses oxcreate date](https://github.com/OXID-eSales/oxideshop_ce/pull/857) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (10 months ago)
 
 #### ⭐ Recent Stars
 
