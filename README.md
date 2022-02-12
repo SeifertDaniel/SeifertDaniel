@@ -15,7 +15,7 @@
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (2 months ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 months ago)
-- [d3datadevelopment/.github](https://github.com/d3datadevelopment/.github) -  (2 months ago)
+- [d3datadevelopment/.github](https://github.com/d3datadevelopment/.github) -  (3 months ago)
 
 #### 🌱 My latest projects
 
