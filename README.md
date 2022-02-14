@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 6 months ago) - PHP library to create and validate html forms
+- [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 7 months ago) - PHP library to create and validate html forms
 - [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) ([v2.1.1](https://github.com/vanilla-thunder/oxid-module-staticbrutto/releases/tag/v2.1.1), 9 months ago) - countryspecific VAT &#43; static brutto price no matter of VAT percentage for OXID eShop
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.2](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.2), 10 months ago) - GDPR Compliance
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 2 years ago) - 
@@ -35,8 +35,8 @@
 
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (1 week ago)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 month ago)
-- [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 month ago)
-- [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (1 month ago)
+- [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
+- [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
 - [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (4 months ago)
 - [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (6 months ago)
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (7 months ago)
