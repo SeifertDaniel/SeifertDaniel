@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (2 weeks ago)
-- [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (3 weeks ago)
+- [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (4 weeks ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (4 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 month ago)
 - [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (1 month ago)
@@ -24,7 +24,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 7 months ago) - PHP library to create and validate html forms
-- [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) ([v2.1.1](https://github.com/vanilla-thunder/oxid-module-staticbrutto/releases/tag/v2.1.1), 9 months ago) - countryspecific VAT &#43; static brutto price no matter of VAT percentage for OXID eShop
+- [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) ([v2.1.1](https://github.com/vanilla-thunder/oxid-module-staticbrutto/releases/tag/v2.1.1), 10 months ago) - countryspecific VAT &#43; static brutto price no matter of VAT percentage for OXID eShop
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.2](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.2), 10 months ago) - GDPR Compliance
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 2 years ago) - 
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) ([6.5.1.072](https://github.com/d3datadevelopment/ExtSearch/releases/tag/6.5.1.072), 2 years ago) - Extended search module for OXID eShop
@@ -37,7 +37,7 @@
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
 - [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
-- [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (4 months ago)
+- [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (5 months ago)
 - [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (6 months ago)
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (7 months ago)
 - [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (8 months ago)
