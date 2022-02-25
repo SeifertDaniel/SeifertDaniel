@@ -25,7 +25,7 @@
 
 - [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 7 months ago) - PHP library to create and validate html forms
 - [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) ([v2.1.1](https://github.com/vanilla-thunder/oxid-module-staticbrutto/releases/tag/v2.1.1), 10 months ago) - countryspecific VAT &#43; static brutto price no matter of VAT percentage for OXID eShop
-- [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.2](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.2), 10 months ago) - GDPR Compliance
+- [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.2](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.2), 11 months ago) - GDPR Compliance
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 2 years ago) - 
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) ([6.5.1.072](https://github.com/d3datadevelopment/ExtSearch/releases/tag/6.5.1.072), 2 years ago) - Extended search module for OXID eShop
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 2 years ago) - D³ Module Connector for OXID eShop
@@ -41,7 +41,7 @@
 - [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (7 months ago)
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (7 months ago)
 - [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (8 months ago)
-- [make installable in PHP 8.0](https://github.com/OXIDprojects/switch-shop/pull/3) on [OXIDprojects/switch-shop](https://github.com/OXIDprojects/switch-shop) (9 months ago)
+- [make installable in PHP 8.0](https://github.com/OXIDprojects/switch-shop/pull/3) on [OXIDprojects/switch-shop](https://github.com/OXIDprojects/switch-shop) (10 months ago)
 - [fix letter case differences between module path and namespace](https://github.com/vanilla-thunder/oxid-module-staticbrutto/pull/5) on [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) (10 months ago)
 
 #### ⭐ Recent Stars
