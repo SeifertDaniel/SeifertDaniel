@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (today)
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (1 month ago)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
@@ -41,7 +42,6 @@
 - [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (7 months ago)
 - [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (9 months ago)
 - [make installable in PHP 8.0](https://github.com/OXIDprojects/switch-shop/pull/3) on [OXIDprojects/switch-shop](https://github.com/OXIDprojects/switch-shop) (10 months ago)
-- [fix letter case differences between module path and namespace](https://github.com/vanilla-thunder/oxid-module-staticbrutto/pull/5) on [vanilla-thunder/oxid-module-staticbrutto](https://github.com/vanilla-thunder/oxid-module-staticbrutto) (10 months ago)
 
 #### ⭐ Recent Stars
 
