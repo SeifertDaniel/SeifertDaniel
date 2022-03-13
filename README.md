@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (today)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (today)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (5 days ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (1 month ago)
@@ -15,10 +16,10 @@
 - [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (2 months ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (2 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 months ago)
-- [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (3 months ago)
 
 #### 🌱 My latest projects
 
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) - 
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) - 
 - [SeifertDaniel/packagist_dummy](https://github.com/SeifertDaniel/packagist_dummy) - 
 
