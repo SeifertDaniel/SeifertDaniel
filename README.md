@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (today)
-- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (today)
-- [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (5 days ago)
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 day ago)
+- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (1 day ago)
+- [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (6 days ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (1 month ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (1 month ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 month ago)
@@ -34,8 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (2 days ago)
-- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (5 days ago)
+- [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (3 days ago)
+- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (6 days ago)
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (1 month ago)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (2 months ago)
