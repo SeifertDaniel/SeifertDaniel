@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 day ago)
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (today)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (1 day ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (3 weeks ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (1 month ago)
