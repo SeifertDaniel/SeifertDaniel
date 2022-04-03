@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (today)
+- [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (today)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (3 weeks ago)
 - [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (3 weeks ago)
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (2 months ago)
@@ -42,8 +44,6 @@
 - [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (3 months ago)
 - [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (6 months ago)
 - [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (8 months ago)
-- [add support for PHP 8](https://github.com/oscarotero/form-manager/pull/91) on [oscarotero/form-manager](https://github.com/oscarotero/form-manager) (8 months ago)
-- [add missing colgroup in admin panels order_list table ...](https://github.com/OXID-eSales/paypal/pull/52) on [OXID-eSales/paypal](https://github.com/OXID-eSales/paypal) (9 months ago)
 
 #### ⭐ Recent Stars
 
