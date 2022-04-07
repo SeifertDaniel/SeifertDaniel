@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (today)
-- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 day ago)
-- [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (4 weeks ago)
+- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (1 day ago)
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (2 days ago)
+- [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (1 month ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (2 months ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (2 months ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (2 months ago)
@@ -34,10 +34,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 days ago)
-- [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 days ago)
+- [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (4 days ago)
+- [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (4 days ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (3 weeks ago)
-- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (4 weeks ago)
+- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (1 month ago)
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (2 months ago)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (3 months ago)
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (3 months ago)
