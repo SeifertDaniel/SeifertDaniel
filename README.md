@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (6 days ago)
-- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (6 days ago)
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 week ago)
+- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (1 week ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (1 month ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (2 months ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (3 months ago)
