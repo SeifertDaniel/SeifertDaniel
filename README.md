@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (today)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (2 days ago)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (2 weeks ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (1 month ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
 - [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (3 months ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (4 months ago)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (4 months ago)
 
 #### 🌱 My latest projects
 
