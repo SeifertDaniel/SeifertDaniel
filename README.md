@@ -27,7 +27,6 @@
 
 - [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 9 months ago) - PHP library to create and validate html forms
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.2](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.2), 1 year ago) - GDPR Compliance
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 2 years ago) - 
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 3 years ago) - Add a printorder function
 
 #### 🔨 My recent Pull Requests
