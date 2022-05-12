@@ -14,7 +14,7 @@
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (3 months ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (3 months ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
-- [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (3 months ago)
+- [d3datadevelopment/oxid_patches](https://github.com/d3datadevelopment/oxid_patches) -  (4 months ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -44,7 +44,7 @@
 
 #### ⭐ Recent Stars
 
-- [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (10 months ago)
+- [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (11 months ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
 - [firephp/firephp-core](https://github.com/firephp/firephp-core) - FirePHP server library for sending PHP variables to the browser. (2 years ago)
 - [gleero/grunt-favicons](https://github.com/gleero/grunt-favicons) - Generate favicon.ico and icons for iOS, Android and WP8 (2 years ago)
