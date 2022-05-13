@@ -8,7 +8,7 @@
 
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (1 week ago)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 week ago)
-- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (3 weeks ago)
+- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (4 weeks ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (2 months ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (3 months ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (3 months ago)
