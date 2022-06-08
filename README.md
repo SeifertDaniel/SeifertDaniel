@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfOxid/friendsofoxid.github.io](https://github.com/FriendsOfOxid/friendsofoxid.github.io) -  (today)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (6 days ago)
 - [d3datadevelopment/StageMarker](https://github.com/d3datadevelopment/StageMarker) -  (1 week ago)
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (2 weeks ago)
@@ -15,7 +16,6 @@
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (4 months ago)
 - [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (4 months ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (4 months ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (4 months ago)
 
 #### 🌱 My latest projects
 
