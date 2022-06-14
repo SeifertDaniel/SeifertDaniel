@@ -1,0 +1,70 @@
+<html>
+<head>
+    <style type="text/css">
+        .one,
+        .two,
+        .three{
+            height: 125%;
+            float: left;
+            width: 50%;
+
+            -moz-border-radius: 100px / 50px;
+            -webkit-border-radius: 100px / 178px;
+            border-radius: 110px / 49%;
+
+            z-index: 100;
+            position: absolute;
+            top: -20px;
+
+            border: 3px solid white;
+        }
+        .one {
+            background-color: blue;
+            background-image: url('145773897.jpeg');
+            background-size: 200%;
+            background-position: top 210px;
+            left: -37%;
+            z-index: 30;
+            transition: left 0.3s ease-in-out 100ms
+        }
+        .one:hover {
+            left: -27%;
+        }
+        .two {
+            background-color: green;
+            background-image: url('photography.jpg');
+            background-size: 200%;
+            background-position: top right;
+            left: -25%;
+            z-index: 20;
+            transition: left 0.3s ease-in-out 100ms
+        }
+        .two:hover {
+            left: -15%;
+        }
+        .three {
+            background-color: yellow;
+            background-image: url('source.jpg');
+            background-size: 200%;
+            background-position: top right;
+            left: -13%;
+            z-index: 10;
+            transition: left 0.3s ease-in-out 0ms
+        }
+        .three:hover {
+            left: -3%;
+        }
+        .four {
+            width: 100%;
+            height: 100%;
+            background-color: black;
+        }
+    </style>
+</head>
+<body>
+<div class="one"></div>
+<div class="two"></div>
+<div class="three"></div>
+<div class="four"></div>
+</body>
+</html>
