@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (today)
 - [FriendsOfOxid/friendsofoxid.github.io](https://github.com/FriendsOfOxid/friendsofoxid.github.io) -  (6 days ago)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 week ago)
 - [d3datadevelopment/StageMarker](https://github.com/d3datadevelopment/StageMarker) -  (2 weeks ago)
-- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (3 weeks ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (1 month ago)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (2 months ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (3 months ago)
