@@ -1,6 +1,24 @@
 <html>
 <head>
     <style type="text/css">
+        * {
+            margin: 0;
+            padding: 0;
+            border: 0;
+        }
+        html, body {
+            height: 100%;
+        }
+        #wrapper {
+            height: 100%;
+            display: -webkit-flex;
+            display: flex;
+            -webkit-flex-direction: column;
+            flex-direction: column;
+            outline: 1px solid red;
+            overflow: hidden;
+        }
+
         .one,
         .two,
         .three{
@@ -8,24 +26,39 @@
             float: left;
             width: 50%;
 
-            -moz-border-radius: 100px / 50px;
-            -webkit-border-radius: 100px / 178px;
             border-radius: 110px / 49%;
 
             z-index: 100;
             position: absolute;
-            top: -20px;
-
-            border: 3px solid white;
+            top: -12%;
+            border: 4px solid white;
+            transition: left 1s cubic-bezier(0.4, 0, 0.2, 1) 500ms
+        }
+        .one .desc,
+        .two .desc,
+        .three .desc {
+            color: white;
+            font-size: 100px;
+            position: absolute;
+            right: -81%;
+            top: 47%;
+            width: auto;
+            height: auto;
+            opacity: 0;
+            transition: opacity 1s cubic-bezier(0.4, 0, 0.2, 1) 500ms;
+        }
+        .one:hover .desc,
+        .two:hover .desc,
+        .three:hover .desc {
+            opacity: 1;
         }
         .one {
             background-color: blue;
-            background-image: url('145773897.jpeg');
-            background-size: 200%;
-            background-position: top 210px;
+            background-image: url('145773897.jpg');
+            background-size: 90% auto;
+            background-position: top right;
             left: -37%;
             z-index: 30;
-            transition: left 0.3s ease-in-out 100ms
         }
         .one:hover {
             left: -27%;
@@ -33,38 +66,54 @@
         .two {
             background-color: green;
             background-image: url('photography.jpg');
-            background-size: 200%;
-            background-position: top right;
+            background-size: 124% auto;
+            background-position: -119% 50%;
             left: -25%;
             z-index: 20;
-            transition: left 0.3s ease-in-out 100ms
         }
         .two:hover {
             left: -15%;
         }
+        .two .desc {
+            right: -81%;
+        }
         .three {
             background-color: yellow;
             background-image: url('source.jpg');
-            background-size: 200%;
-            background-position: top right;
+            background-size: 90% auto;
+            background-position: right top;
             left: -13%;
             z-index: 10;
-            transition: left 0.3s ease-in-out 0ms
         }
         .three:hover {
             left: -3%;
         }
+        .three .desc {
+            right: -51%;
+        }
         .four {
             width: 100%;
             height: 100%;
-            background-color: black;
+            background-color: orange;
         }
     </style>
 </head>
 <body>
-<div class="one"></div>
-<div class="two"></div>
-<div class="three"></div>
-<div class="four"></div>
+<div id="wrapper">
+    <div class="one">
+        <div class="desc">Layout</div>
+    </div>
+    <div class="two">
+        <span class="desc">Fotografie</span>
+    </div>
+    <div class="three">
+        <span class="desc">Coding</span>
+    </div>
+    <div class="four"></div>
+</div>
+
+
+
+
 </body>
 </html>
