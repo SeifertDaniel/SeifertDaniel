@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (today)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (2 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (2 months ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (3 months ago)
@@ -41,7 +42,6 @@
 - [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (6 months ago)
 - [add test for da09c19a](https://github.com/MaxBuhe01/paypal/pull/1) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (6 months ago)
 - [Composer 2 compatibility](https://github.com/bjornjohansen/wplang/pull/8) on [bjornjohansen/wplang](https://github.com/bjornjohansen/wplang) (9 months ago)
-- [implement (right) handling for opt-out consent type](https://github.com/aggrosoft/oxid-cookie-compliance/pull/22) on [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) (10 months ago)
 
 #### ⭐ Recent Stars
 
