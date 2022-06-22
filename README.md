@@ -14,8 +14,8 @@
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (1 month ago)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (2 months ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (3 months ago)
+- [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) - OXID eShop composer plugin (3 months ago)
 - [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) - Bash/Shell autocompletion for Composer (4 months ago)
-- [d3datadevelopment/contenttabs](https://github.com/d3datadevelopment/contenttabs) - description tabs oxid (5 months ago)
 
 #### 🌱 My latest projects
 
@@ -29,6 +29,7 @@
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.3](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.3), 3 weeks ago) - GDPR Compliance
 - [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 11 months ago) - PHP library to create and validate html forms
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 3 years ago) - Add a printorder function
+- [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) ([v2.0.0](https://github.com/OXID-eSales/oxideshop_composer_plugin/releases/tag/v2.0.0), 5 years ago) - OXID eShop composer plugin
 
 #### 🔨 My recent Pull Requests
 
