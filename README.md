@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.4.2_PHP8.0_002](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.4.2_PHP8.0_002), 3 days ago) - This repository contains Oxid CE artefacts generated with composer
+- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.4.2_PHP8.0_002](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.4.2_PHP8.0_002), 4 days ago) - This repository contains Oxid CE artefacts generated with composer
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.3](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.3), 3 weeks ago) - GDPR Compliance
 - [oscarotero/form-manager](https://github.com/oscarotero/form-manager) ([v6.1.2](https://github.com/oscarotero/form-manager/releases/tag/v6.1.2), 11 months ago) - PHP library to create and validate html forms
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 3 years ago) - Add a printorder function
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (2 days ago)
+- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (3 days ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (2 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (2 months ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (3 months ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 day ago)
+- [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 days ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
 - [firephp/firephp-core](https://github.com/firephp/firephp-core) - FirePHP server library for sending PHP variables to the browser. (2 years ago)
