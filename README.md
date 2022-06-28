@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (today)
 - [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (today)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (6 days ago)
 - [d3datadevelopment/BonimaScore](https://github.com/d3datadevelopment/BonimaScore) - Boniversum module for OXID eShop. (1 week ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/StageMarker](https://github.com/d3datadevelopment/StageMarker) -  (4 weeks ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (1 month ago)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (2 months ago)
-- [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) - OXID eShop composer plugin (3 months ago)
 
 #### 🌱 My latest projects
 
