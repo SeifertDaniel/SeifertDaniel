@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 day ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (2 days ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 weeks ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
