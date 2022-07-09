@@ -39,7 +39,7 @@
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (2 weeks ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
-- [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (3 months ago)
+- [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (4 months ago)
 - [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (4 months ago)
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (5 months ago)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (6 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (3 days ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (4 days ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 weeks ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
