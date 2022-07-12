@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (1 week ago)
-- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (1 week ago)
+- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (2 weeks ago)
+- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (2 weeks ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 weeks ago)
 - [d3datadevelopment/BonimaScore](https://github.com/d3datadevelopment/BonimaScore) - Boniversum module for OXID eShop. (3 weeks ago)
-- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (3 weeks ago)
+- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (4 weeks ago)
 - [FriendsOfOxid/friendsofoxid.github.io](https://github.com/FriendsOfOxid/friendsofoxid.github.io) -  (1 month ago)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 month ago)
 - [d3datadevelopment/StageMarker](https://github.com/d3datadevelopment/StageMarker) -  (1 month ago)
@@ -34,9 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 week ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 week ago)
-- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (2 weeks ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (2 weeks ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (2 weeks ago)
+- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (3 weeks ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (4 months ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (6 days ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 week ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 weeks ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
