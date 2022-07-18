@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 1 day ago) - This repository contains Oxid CE artefacts generated with composer
+- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 2 days ago) - This repository contains Oxid CE artefacts generated with composer
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.4](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.4), 2 weeks ago) - GDPR Compliance
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 3 weeks ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 3 years ago) - Add a printorder function
