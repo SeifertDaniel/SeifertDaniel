@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (today)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (4 weeks ago)
@@ -42,7 +43,6 @@
 - [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (4 months ago)
 - [list installed packages, if command expect package names](https://github.com/bramus/composer-autocomplete/pull/12) on [bramus/composer-autocomplete](https://github.com/bramus/composer-autocomplete) (5 months ago)
 - [B 6.4.x split street data](https://github.com/MaxBuhe01/paypal/pull/3) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (7 months ago)
-- [fix wrong use statement](https://github.com/MaxBuhe01/paypal/pull/2) on [MaxBuhe01/paypal](https://github.com/MaxBuhe01/paypal) (7 months ago)
 
 #### ⭐ Recent Stars
 
