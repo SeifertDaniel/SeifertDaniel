@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (2 weeks ago)
-- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (2 weeks ago)
+- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (3 weeks ago)
+- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (3 weeks ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (3 weeks ago)
 - [d3datadevelopment/BonimaScore](https://github.com/d3datadevelopment/BonimaScore) - Boniversum module for OXID eShop. (1 month ago)
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 2 days ago) - This repository contains Oxid CE artefacts generated with composer
+- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 3 days ago) - This repository contains Oxid CE artefacts generated with composer
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.4](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.4), 2 weeks ago) - GDPR Compliance
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 3 weeks ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 3 years ago) - Add a printorder function
@@ -33,9 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (2 weeks ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (2 weeks ago)
-- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (3 weeks ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
+- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (4 weeks ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (4 months ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 week ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (2 weeks ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (3 weeks ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
