@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (today)
 - [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (3 days ago)
 - [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (3 weeks ago)
 - [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (3 weeks ago)
@@ -15,7 +16,6 @@
 - [FriendsOfOxid/friendsofoxid.github.io](https://github.com/FriendsOfOxid/friendsofoxid.github.io) -  (1 month ago)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 month ago)
 - [d3datadevelopment/StageMarker](https://github.com/d3datadevelopment/StageMarker) -  (1 month ago)
-- [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (2 months ago)
 
 #### 🌱 My latest projects
 
