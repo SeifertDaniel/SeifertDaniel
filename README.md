@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (2 days ago)
+- [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (3 days ago)
 - [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (3 weeks ago)
 - [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (3 weeks ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 month ago)
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (5 days ago)
+- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (6 days ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (1 month ago)
