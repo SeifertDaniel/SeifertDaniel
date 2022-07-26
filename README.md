@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (today)
-- [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (3 days ago)
-- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (3 weeks ago)
-- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (3 weeks ago)
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 day ago)
+- [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (4 days ago)
+- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (4 weeks ago)
+- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (4 weeks ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 month ago)
 - [d3datadevelopment/BonimaScore](https://github.com/d3datadevelopment/BonimaScore) - Boniversum module for OXID eShop. (1 month ago)
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (1 month ago)
@@ -27,15 +27,15 @@
 
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 1 week ago) - This repository contains Oxid CE artefacts generated with composer
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.4](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.4), 3 weeks ago) - GDPR Compliance
-- [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 4 weeks ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
+- [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 1 month ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 3 years ago) - Add a printorder function
 - [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) ([v2.0.0](https://github.com/OXID-eSales/oxideshop_composer_plugin/releases/tag/v2.0.0), 5 years ago) - OXID eShop composer plugin
 
 #### 🔨 My recent Pull Requests
 
-- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (6 days ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
+- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (1 week ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (4 weeks ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (4 weeks ago)
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (1 month ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (2 weeks ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (3 weeks ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 month ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
