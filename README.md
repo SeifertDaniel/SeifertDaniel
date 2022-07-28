@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 day ago)
-- [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (5 days ago)
-- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (4 weeks ago)
-- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (4 weeks ago)
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (2 days ago)
+- [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (6 days ago)
+- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (1 month ago)
+- [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (1 month ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 month ago)
 - [d3datadevelopment/BonimaScore](https://github.com/d3datadevelopment/BonimaScore) - Boniversum module for OXID eShop. (1 month ago)
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) - This repository contains Oxid CE artefacts generated with composer (1 month ago)
@@ -34,8 +34,8 @@
 #### 🔨 My recent Pull Requests
 
 - [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (1 week ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (4 weeks ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (4 weeks ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 month ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 month ago)
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (1 month ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (3 months ago)
