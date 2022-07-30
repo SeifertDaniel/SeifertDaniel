@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 day ago)
-- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (3 days ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 days ago)
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (4 days ago)
 - [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (1 week ago)
 - [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (1 month ago)
 - [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 1 week ago) - This repository contains Oxid CE artefacts generated with composer
+- [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.3.2_PHP7.4_003](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.3.2_PHP7.4_003), 2 weeks ago) - This repository contains Oxid CE artefacts generated with composer
 - [aggrosoft/oxid-cookie-compliance](https://github.com/aggrosoft/oxid-cookie-compliance) ([1.2.4](https://github.com/aggrosoft/oxid-cookie-compliance/releases/tag/1.2.4), 1 month ago) - GDPR Compliance
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 1 month ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 2 years ago) - 
