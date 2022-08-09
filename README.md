@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (3 days ago)
+- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (4 days ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 week ago)
-- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 week ago)
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (2 weeks ago)
 - [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (2 weeks ago)
 - [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (1 month ago)
 - [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (1 month ago)
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (2 weeks ago)
+- [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (3 weeks ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 month ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 month ago)
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (1 month ago)
