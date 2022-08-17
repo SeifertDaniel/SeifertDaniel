@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (today)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 month ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 month ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
@@ -55,7 +56,6 @@
 - [web-auth/webauthn-framework](https://github.com/web-auth/webauthn-framework) - FIDO-U2F / FIDO2 / Webauthn Framework (2 years ago)
 - [Sioweb/OxidMetadataMultiSelect](https://github.com/Sioweb/OxidMetadataMultiSelect) - Mit diesem Modul können Select-Optionen in der Metadata als &#34;Multiple&#34; gekennzeichnet werden. (2 years ago)
 - [fzaninotto/Faker](https://github.com/fzaninotto/Faker) - Faker is a PHP library that generates fake data for you (3 years ago)
-- [cweagans/composer-patches](https://github.com/cweagans/composer-patches) - Simple patches plugin for Composer (3 years ago)
 
 #### 💬 Feedback
 
