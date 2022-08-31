@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (today)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (today)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (3 weeks ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 month ago)
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 month ago)
 - [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (1 month ago)
-- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (2 months ago)
 - [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (2 months ago)
+- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (2 months ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 months ago)
-- [d3datadevelopment/BonimaScore](https://github.com/d3datadevelopment/BonimaScore) - Boniversum module for OXID eShop. (2 months ago)
 
 #### 🌱 My latest projects
 
