@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 day ago)
-- [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (2 days ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 days ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 days ago)
+- [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (3 days ago)
+- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 days ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (4 weeks ago)
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 month ago)
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 days ago)
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (3 days ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (2 weeks ago)
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 month ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (2 months ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 months ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (1 year ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (1 year ago)
