@@ -7,6 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (today)
+- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (today)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 week ago)
 - [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (1 week ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 week ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 month ago)
 - [d3datadevelopment/inselzuschlag](https://github.com/d3datadevelopment/inselzuschlag) - makes price increase for delivery to isles available in OXID eShop (1 month ago)
 - [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) -  (2 months ago)
-- [d3datadevelopment/Dev-Replacement](https://github.com/d3datadevelopment/Dev-Replacement) -  (2 months ago)
 
 #### 🌱 My latest projects
 
