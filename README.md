@@ -10,8 +10,8 @@
 - [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (1 week ago)
 - [d3datadevelopment/linkmobility4ordermanager](https://github.com/d3datadevelopment/linkmobility4ordermanager) -  (1 week ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 weeks ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 weeks ago)
-- [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (2 weeks ago)
+- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 weeks ago)
+- [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (3 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (1 month ago)
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 month ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 weeks ago)
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (3 weeks ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (1 month ago)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (2 months ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (3 months ago)
