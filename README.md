@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (3 weeks ago)
-- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (3 weeks ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (today)
+- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (today)
 - [d3datadevelopment/linkmobility4ordermanager](https://github.com/d3datadevelopment/linkmobility4ordermanager) -  (3 weeks ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (4 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (4 weeks ago)
