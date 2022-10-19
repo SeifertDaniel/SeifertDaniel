@@ -33,11 +33,11 @@
 
 #### 🔨 My recent Pull Requests
 
-- [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (6 days ago)
+- [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (1 week ago)
 - [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (3 months ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 months ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 months ago)
-- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (3 months ago)
+- [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (4 months ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (6 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (6 months ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (7 months ago)
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (4 days ago)
+- [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (5 days ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 month ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (2 months ago)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (3 months ago)
