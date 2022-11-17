@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (5 days ago)
+- [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (6 days ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (1 week ago)
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) - The Wave theme for OXID eShop (1 week ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 weeks ago)
@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (2 days ago)
+- [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (3 days ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (1 month ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 months ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (3 months ago)
