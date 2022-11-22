@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (today)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (today)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (1 week ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (1 week ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (1 month ago)
 - [d3datadevelopment/linkmobility4ordermanager](https://github.com/d3datadevelopment/linkmobility4ordermanager) -  (2 months ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 months ago)
-- [d3datadevelopment/RemoveGoogleFonts](https://github.com/d3datadevelopment/RemoveGoogleFonts) -  (2 months ago)
 
 #### 🌱 My latest projects
 
