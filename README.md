@@ -9,13 +9,13 @@
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (1 week ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 week ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (2 weeks ago)
-- [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (2 weeks ago)
+- [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (3 weeks ago)
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) - The Wave theme for OXID eShop (3 weeks ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 months ago)
 - [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (2 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (2 months ago)
 - [d3datadevelopment/linkmobility4ordermanager](https://github.com/d3datadevelopment/linkmobility4ordermanager) -  (2 months ago)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 months ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 months ago)
 
 #### 🌱 My latest projects
 
