@@ -43,7 +43,7 @@
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (8 months ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (8 months ago)
 - [adjust namespace to folder names](https://github.com/lxlang/tankerkoenig-php-client/pull/1) on [lxlang/tankerkoenig-php-client](https://github.com/lxlang/tankerkoenig-php-client) (8 months ago)
-- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (8 months ago)
+- [fix aborted Composer uninstallation with autoloaded packages](https://github.com/OXID-eSales/oxideshop_composer_plugin/pull/27) on [OXID-eSales/oxideshop_composer_plugin](https://github.com/OXID-eSales/oxideshop_composer_plugin) (9 months ago)
 
 #### ⭐ Recent Stars
 
