@@ -11,11 +11,11 @@
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (3 weeks ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (4 weeks ago)
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) - The Wave theme for OXID eShop (1 month ago)
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) -  (1 month ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 months ago)
-- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (2 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (2 months ago)
+- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (2 months ago)
 - [d3datadevelopment/linkmobility4ordermanager](https://github.com/d3datadevelopment/linkmobility4ordermanager) -  (3 months ago)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -25,6 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([1.2.3.0](https://github.com/unzerdev/php-sdk/releases/tag/1.2.3.0), today) - 
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.4.3_PHP8.0_001](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.4.3_PHP8.0_001), 3 months ago) - This repository contains Oxid CE artefacts generated with composer
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 5 months ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 2 years ago) - The Wave theme for OXID eShop
