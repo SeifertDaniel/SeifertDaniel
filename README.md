@@ -7,6 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 days ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (6 days ago)
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (3 weeks ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (1 month ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (1 month ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (2 months ago)
 - [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (2 months ago)
-- [d3datadevelopment/linkmobility4ordermanager](https://github.com/d3datadevelopment/linkmobility4ordermanager) -  (3 months ago)
 
 #### 🌱 My latest projects
 
