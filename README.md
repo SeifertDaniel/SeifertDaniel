@@ -6,8 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (today)
+- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (today)
 - [d3datadevelopment/Importer](https://github.com/d3datadevelopment/Importer) -  (today)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (today)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 week ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 week ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 weeks ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/recommended-modules](https://github.com/d3datadevelopment/recommended-modules) - a list of our recommended modules for the OXID Shop (1 month ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (1 month ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (1 month ago)
-- [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) - The Wave theme for OXID eShop (1 month ago)
 
 #### 🌱 My latest projects
 
