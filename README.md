@@ -6,15 +6,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (2 days ago)
-- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 days ago)
-- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (3 days ago)
-- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (3 days ago)
-- [d3datadevelopment/Importer](https://github.com/d3datadevelopment/Importer) -  (4 days ago)
-- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (4 days ago)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (4 days ago)
+- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (3 days ago)
+- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 days ago)
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (4 days ago)
+- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (4 days ago)
+- [d3datadevelopment/Importer](https://github.com/d3datadevelopment/Importer) -  (5 days ago)
+- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (5 days ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (5 days ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 week ago)
-- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 week ago)
+- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (2 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([1.2.3.0](https://github.com/unzerdev/php-sdk/releases/tag/1.2.3.0), 4 weeks ago) - 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([1.2.3.0](https://github.com/unzerdev/php-sdk/releases/tag/1.2.3.0), 1 month ago) - 
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.4.3_PHP8.0_001](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.4.3_PHP8.0_001), 4 months ago) - This repository contains Oxid CE artefacts generated with composer
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 6 months ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 2 years ago) - The Wave theme for OXID eShop
