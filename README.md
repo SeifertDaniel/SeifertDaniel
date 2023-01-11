@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (6 days ago)
-- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (6 days ago)
+- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (1 week ago)
+- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 week ago)
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 week ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 week ago)
 - [d3datadevelopment/Importer](https://github.com/d3datadevelopment/Importer) -  (1 week ago)
