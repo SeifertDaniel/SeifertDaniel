@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (1 month ago)
-- [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (2 months ago)
+- [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (3 months ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (4 months ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (4 months ago)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (6 months ago)
