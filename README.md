@@ -7,12 +7,12 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 week ago)
-- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (1 week ago)
+- [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (2 weeks ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 weeks ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (3 weeks ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (3 weeks ago)
-- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (4 weeks ago)
-- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (4 weeks ago)
+- [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (1 month ago)
+- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 month ago)
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 month ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 month ago)
 - [d3datadevelopment/Importer](https://github.com/d3datadevelopment/Importer) -  (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (1 day ago)
+- [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (2 days ago)
 - [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (2 months ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (3 months ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (5 months ago)
