@@ -50,7 +50,7 @@
 
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (1 week ago)
 - [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (2 months ago)
-- [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (3 months ago)
+- [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (4 months ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (5 months ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (5 months ago)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (7 months ago)
