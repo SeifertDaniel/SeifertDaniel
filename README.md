@@ -8,7 +8,7 @@
 
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 weeks ago)
 - [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (4 weeks ago)
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (4 weeks ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 month ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (1 month ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 month ago)
 - [d3datadevelopment/DebugBar](https://github.com/d3datadevelopment/DebugBar) -  (1 month ago)
