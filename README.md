@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([1.2.3.0](https://github.com/unzerdev/php-sdk/releases/tag/1.2.3.0), 2 months ago) - 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.0.0](https://github.com/unzerdev/php-sdk/releases/tag/3.0.0), today) - 
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.4.3_PHP8.0_001](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.4.3_PHP8.0_001), 6 months ago) - This repository contains Oxid CE artefacts generated with composer
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 7 months ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 2 years ago) - The Wave theme for OXID eShop
