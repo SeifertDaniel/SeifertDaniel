@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (6 days ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 week ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 month ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (2 months ago)
@@ -38,8 +38,8 @@
 - [add template blocks...](https://github.com/OXID-eSales/wave-theme/pull/124) on [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) (5 months ago)
 - [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (6 months ago)
 - [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (9 months ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (9 months ago)
-- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (9 months ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (10 months ago)
+- [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/39) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (10 months ago)
 - [use format specifications from constants for improved reusability in …](https://github.com/phlib/sms-length/pull/11) on [phlib/sms-length](https://github.com/phlib/sms-length) (10 months ago)
 - [resizable SVG graph for responsive documents](https://github.com/zetacomponents/Graph/pull/37) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (1 year ago)
 - [added property for inline mode to prevent the content type header](https://github.com/zetacomponents/Graph/pull/36) on [zetacomponents/Graph](https://github.com/zetacomponents/Graph) (1 year ago)
@@ -56,7 +56,7 @@
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (10 months ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (2 years ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 years ago)
-- [firephp/firephp-core](https://github.com/firephp/firephp-core) - FirePHP server library for sending PHP variables to the browser. (2 years ago)
+- [firephp/firephp-core](https://github.com/firephp/firephp-core) - FirePHP server library for sending PHP variables to the browser. (3 years ago)
 
 #### 💬 Feedback
 
