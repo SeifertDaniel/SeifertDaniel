@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.1.0](https://github.com/unzerdev/php-sdk/releases/tag/3.1.0), 1 month ago) - 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.1.0](https://github.com/unzerdev/php-sdk/releases/tag/3.1.0), 2 months ago) - 
 - [FriendsOfOxid/Oxid-CE-artefacts](https://github.com/FriendsOfOxid/Oxid-CE-artefacts) ([v6.4.3_PHP8.0_001](https://github.com/FriendsOfOxid/Oxid-CE-artefacts/releases/tag/v6.4.3_PHP8.0_001), 9 months ago) - This repository contains Oxid CE artefacts generated with composer
 - [phlib/sms-length](https://github.com/phlib/sms-length) ([2.0.1](https://github.com/phlib/sms-length/releases/tag/2.0.1), 11 months ago) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 2 years ago) - The Wave theme for OXID eShop
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 day ago)
+- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 days ago)
 - [change oxremark oxtype field type from enum list to varchar](https://github.com/OXID-eSales/oxideshop_ce/pull/903) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
 - [add template blocks...](https://github.com/OXID-eSales/wave-theme/pull/124) on [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) (7 months ago)
 - [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (7 months ago)
