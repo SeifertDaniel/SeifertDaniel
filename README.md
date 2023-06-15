@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (today)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 days ago)
 - [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (1 week ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 month ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (3 months ago)
 - [d3datadevelopment/linkmobility4oxid](https://github.com/d3datadevelopment/linkmobility4oxid) -  (4 months ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (4 months ago)
-- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (5 months ago)
 
 #### 🌱 My latest projects
 
