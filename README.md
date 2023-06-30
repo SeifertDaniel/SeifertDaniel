@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (today)
-- [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (1 day ago)
-- [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (1 day ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 day ago)
+- [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (2 days ago)
+- [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 days ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (1 week ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 weeks ago)
 - [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (3 weeks ago)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (3 weeks ago)
+- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (4 weeks ago)
 - [change oxremark oxtype field type from enum list to varchar](https://github.com/OXID-eSales/oxideshop_ce/pull/903) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (6 months ago)
 - [add template blocks...](https://github.com/OXID-eSales/wave-theme/pull/124) on [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) (7 months ago)
 - [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (8 months ago)
@@ -50,7 +50,7 @@
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (8 months ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (10 months ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (10 months ago)
-- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (11 months ago)
+- [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 year ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (1 year ago)
 - [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (2 years ago)
 - [composer/composer](https://github.com/composer/composer) - Dependency Manager for PHP (2 years ago)
