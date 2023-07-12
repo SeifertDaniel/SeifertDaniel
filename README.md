@@ -7,8 +7,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 week ago)
-- [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (1 week ago)
-- [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (1 week ago)
+- [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 weeks ago)
+- [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (2 weeks ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (3 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (4 weeks ago)
 - [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (1 month ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.2.0](https://github.com/unzerdev/php-sdk/releases/tag/3.2.0), 6 days ago) - 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.2.0](https://github.com/unzerdev/php-sdk/releases/tag/3.2.0), 1 week ago) - 
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 3 years ago) - The Wave theme for OXID eShop
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 3 years ago) - 
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 4 years ago) - Add a printorder function
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (5 months ago)
-- [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (7 months ago)
+- [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (8 months ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (9 months ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (10 months ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (10 months ago)
