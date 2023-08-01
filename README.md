@@ -15,7 +15,7 @@
 - [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (1 month ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 months ago)
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (2 months ago)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 months ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 month ago)
+- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 months ago)
 - [change oxremark oxtype field type from enum list to varchar](https://github.com/OXID-eSales/oxideshop_ce/pull/903) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (7 months ago)
-- [add template blocks...](https://github.com/OXID-eSales/wave-theme/pull/124) on [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) (8 months ago)
+- [add template blocks...](https://github.com/OXID-eSales/wave-theme/pull/124) on [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) (9 months ago)
 - [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (9 months ago)
 - [mark FC plugin as replacement for TC plugin](https://github.com/FATCHIP-GmbH/OXID-Klarna-6/pull/61) on [FATCHIP-GmbH/OXID-Klarna-6](https://github.com/FATCHIP-GmbH/OXID-Klarna-6) (1 year ago)
 - [reset changed / incompatible method declaration of an extended method](https://github.com/OXID-eSales/paypal-module/pull/40) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 year ago)
