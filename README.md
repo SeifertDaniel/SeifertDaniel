@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 month ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 months ago)
 - [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (2 months ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (2 months ago)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 days ago)
+- [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
