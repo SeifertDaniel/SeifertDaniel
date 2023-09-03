@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.2.0](https://github.com/unzerdev/php-sdk/releases/tag/3.2.0), 1 month ago) - 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.2.0](https://github.com/unzerdev/php-sdk/releases/tag/3.2.0), 2 months ago) - 
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 3 years ago) - The Wave theme for OXID eShop
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 3 years ago) - 
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 4 years ago) - Add a printorder function
@@ -33,8 +33,8 @@
 #### 🔨 My recent Pull Requests
 
 - [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
-- [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
-- [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (1 week ago)
+- [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 weeks ago)
+- [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 weeks ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 weeks ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/20) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 weeks ago)
 - [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (3 months ago)
