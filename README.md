@@ -12,9 +12,9 @@
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (2 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (2 months ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 months ago)
-- [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (2 months ago)
+- [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (3 months ago)
 - [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (3 months ago)
-- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 months ago)
+- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (4 months ago)
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (4 months ago)
 
 #### 🌱 My latest projects
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.3.0](https://github.com/unzerdev/php-sdk/releases/tag/3.3.0), 1 day ago) - 
+- [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) ([3.3.0](https://github.com/unzerdev/php-sdk/releases/tag/3.3.0), 2 days ago) - 
 - [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) ([v1.4.0](https://github.com/OXID-eSales/wave-theme/releases/tag/v1.4.0), 3 years ago) - The Wave theme for OXID eShop
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 3 years ago) - 
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 4 years ago) - Add a printorder function
