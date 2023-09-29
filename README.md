@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 weeks ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 weeks ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (3 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 months ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (3 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (7 months ago)
+- [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (8 months ago)
 - [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (10 months ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (11 months ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 year ago)
