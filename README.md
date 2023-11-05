@@ -14,7 +14,7 @@
 - [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (4 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (4 months ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (4 months ago)
-- [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (4 months ago)
+- [d3datadevelopment/oxwebauthn](https://github.com/d3datadevelopment/oxwebauthn) -  (5 months ago)
 - [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (5 months ago)
 
 #### 🌱 My latest projects
