@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (today)
 - [missing template block for search article list](https://github.com/OXID-eSales/apex-theme/pull/46) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (today)
 - [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 months ago)
@@ -39,7 +40,6 @@
 - [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
 - [change oxremark oxtype field type from enum list to varchar](https://github.com/OXID-eSales/oxideshop_ce/pull/903) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (10 months ago)
 - [add template blocks...](https://github.com/OXID-eSales/wave-theme/pull/124) on [OXID-eSales/wave-theme](https://github.com/OXID-eSales/wave-theme) (1 year ago)
-- [add missing payment webhook event](https://github.com/unzerdev/php-sdk/pull/117) on [unzerdev/php-sdk](https://github.com/unzerdev/php-sdk) (1 year ago)
 
 #### ⭐ Recent Stars
 
