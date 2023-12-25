@@ -19,7 +19,6 @@
 
 #### 🌱 My latest projects
 
-- [SeifertDaniel/SyncTest](https://github.com/SeifertDaniel/SyncTest) - 
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) - 
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) - 
 - [SeifertDaniel/packagist_dummy](https://github.com/SeifertDaniel/packagist_dummy) - 
@@ -44,6 +43,7 @@
 
 #### ⭐ Recent Stars
 
+- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (today)
 - [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) - PHPUnuhi - The easy composable framework to validate and manage translations (1 month ago)
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies. (1 month ago)
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (10 months ago)
@@ -53,7 +53,6 @@
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (1 year ago)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (1 year ago)
 - [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 years ago)
-- [solokeys/solo2-hw](https://github.com/solokeys/solo2-hw) - Hardware schematic and layout for Solo 2 (2 years ago)
 
 #### 💬 Feedback
 
