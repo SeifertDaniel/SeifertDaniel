@@ -19,6 +19,7 @@
 
 #### 🌱 My latest projects
 
+- [SeifertDaniel/SyncTest](https://github.com/SeifertDaniel/SyncTest) - 
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) - 
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) - 
 - [SeifertDaniel/packagist_dummy](https://github.com/SeifertDaniel/packagist_dummy) - 
