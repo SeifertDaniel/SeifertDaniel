@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 days ago)
+- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (4 days ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 months ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (3 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (5 months ago)
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (5 months ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (6 months ago)
 - [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (6 months ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (6 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (6 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (today)
+- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (1 day ago)
 - [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) - PHPUnuhi - The easy composable framework to validate and manage translations (1 month ago)
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies. (1 month ago)
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (10 months ago)
