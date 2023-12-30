@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (3 weeks ago)
+- [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (4 weeks ago)
 - [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (1 month ago)
 - [missing template block for search article list](https://github.com/OXID-eSales/apex-theme/pull/46) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (1 month ago)
 - [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (4 months ago)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (4 days ago)
+- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (5 days ago)
 - [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) - PHPUnuhi - The easy composable framework to validate and manage translations (1 month ago)
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies. (1 month ago)
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (11 months ago)
