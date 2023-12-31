@@ -43,7 +43,8 @@
 
 #### ⭐ Recent Stars
 
-- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (5 days ago)
+- [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering (today)
+- [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (6 days ago)
 - [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) - PHPUnuhi - The easy composable framework to validate and manage translations (1 month ago)
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies. (1 month ago)
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (11 months ago)
@@ -52,7 +53,6 @@
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 year ago)
 - [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (1 year ago)
 - [rafaelgou/padl](https://github.com/rafaelgou/padl) - PHP Aplication Distribution Licensing (2 years ago)
-- [phlib/sms-length](https://github.com/phlib/sms-length) - Calculate SMS GSM 03.38 message encoding and length, and number of concatenated SMS required (2 years ago)
 
 #### 💬 Feedback
 
