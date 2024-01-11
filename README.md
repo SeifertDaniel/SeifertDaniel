@@ -7,6 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 weeks ago)
+- [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (1 month ago)
 - [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) -  (2 months ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (4 months ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (4 months ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (6 months ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (6 months ago)
 - [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (6 months ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (7 months ago)
 
 #### 🌱 My latest projects
 
