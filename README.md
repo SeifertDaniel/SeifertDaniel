@@ -15,7 +15,7 @@
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (6 months ago)
 - [d3datadevelopment/sortedMenus](https://github.com/d3datadevelopment/sortedMenus) -  (6 months ago)
 - [d3datadevelopment/Disable-Admin-Elements](https://github.com/d3datadevelopment/Disable-Admin-Elements) - Hide unused menu items in the oxid eshop admin (6 months ago)
-- [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (6 months ago)
+- [d3datadevelopment/GeoIp](https://github.com/d3datadevelopment/GeoIp) -  (7 months ago)
 
 #### 🌱 My latest projects
 
