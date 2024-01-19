@@ -42,6 +42,7 @@
 
 #### ⭐ Recent Stars
 
+- [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (today)
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository (1 week ago)
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering (2 weeks ago)
 - [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (3 weeks ago)
@@ -51,7 +52,6 @@
 - [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (1 year ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (1 year ago)
 - [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 year ago)
-- [dseguy/clearPHP](https://github.com/dseguy/clearPHP) - Reference for writing clear PHP code  (1 year ago)
 
 #### 💬 Feedback
 
