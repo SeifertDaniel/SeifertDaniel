@@ -37,14 +37,14 @@
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (5 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (5 months ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/20) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (5 months ago)
-- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (7 months ago)
+- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (8 months ago)
 - [change oxremark oxtype field type from enum list to varchar](https://github.com/OXID-eSales/oxideshop_ce/pull/903) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 year ago)
 
 #### ⭐ Recent Stars
 
 - [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (1 week ago)
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository (3 weeks ago)
-- [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering (3 weeks ago)
+- [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering (4 weeks ago)
 - [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (1 month ago)
 - [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) - PHPUnuhi - The easy composable framework to validate and manage translations (2 months ago)
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies. (2 months ago)
