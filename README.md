@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) - Extended search module for OXID eShop (6 days ago)
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (6 days ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (6 days ago)
+- [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) - Extended search module for OXID eShop (1 week ago)
+- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (1 week ago)
+- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 weeks ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (2 weeks ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (2 weeks ago)
@@ -33,7 +33,7 @@
 - [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 months ago)
 - [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (3 months ago)
 - [missing template block for search article list](https://github.com/OXID-eSales/apex-theme/pull/46) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (3 months ago)
-- [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (5 months ago)
+- [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
