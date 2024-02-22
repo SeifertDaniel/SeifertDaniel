@@ -9,8 +9,8 @@
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) - Extended search module for OXID eShop (1 week ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (1 week ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 week ago)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 weeks ago)
-- [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (2 weeks ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 weeks ago)
+- [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (3 weeks ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (3 weeks ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 months ago)
 - [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (2 months ago)
@@ -52,7 +52,7 @@
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (1 year ago)
 - [bkm-medien/nginx-oxid-setup](https://github.com/bkm-medien/nginx-oxid-setup) - nginx-Konfiguration für OXID eShops (1 year ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (1 year ago)
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (1 year ago)
+- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (2 years ago)
 
 #### 💬 Feedback
 
