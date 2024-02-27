@@ -38,7 +38,7 @@
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/20) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (6 months ago)
-- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (8 months ago)
+- [inactive articles are shown in the detail page](https://github.com/OXID-eSales/oxideshop_ce/pull/911) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (9 months ago)
 - [change oxremark oxtype field type from enum list to varchar](https://github.com/OXID-eSales/oxideshop_ce/pull/903) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 year ago)
 
 #### ⭐ Recent Stars
