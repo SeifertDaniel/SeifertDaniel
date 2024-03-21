@@ -12,7 +12,7 @@
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (1 month ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (1 month ago)
-- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 months ago)
+- [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 months ago)
 - [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (3 months ago)
 - [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) -  (4 months ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (6 months ago)
