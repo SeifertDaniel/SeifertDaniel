@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [can&#39;t load translation files from custom theme](https://github.com/OXID-eSales/oxideshop_ce/pull/963) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (today)
 - [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (6 days ago)
 - [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 week ago)
 - [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
@@ -39,7 +40,6 @@
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (8 months ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (8 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (8 months ago)
-- [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/20) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (8 months ago)
 
 #### ⭐ Recent Stars
 
