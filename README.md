@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (today)
-- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (today)
-- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (today)
+- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (1 day ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 day ago)
+- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 day ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (2 months ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 months ago)
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) - Extended search module for OXID eShop (2 months ago)
@@ -30,8 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 days ago)
-- [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (6 days ago)
+- [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (6 days ago)
+- [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 week ago)
 - [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
 - [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (5 months ago)
 - [missing template block for search article list](https://github.com/OXID-eSales/apex-theme/pull/46) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (5 months ago)
