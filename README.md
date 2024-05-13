@@ -13,9 +13,9 @@
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (1 week ago)
 - [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 week ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 week ago)
+- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) - Extended search module for OXID eShop (3 months ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (3 months ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
 
 #### 🌱 My latest projects
 
