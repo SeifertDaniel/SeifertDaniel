@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 days ago)
-- [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (3 days ago)
+- [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (4 days ago)
+- [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (4 days ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 week ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (2 weeks ago)
@@ -30,13 +30,13 @@
 
 #### 🔨 My recent Pull Requests
 
-- [can&#39;t load translation files from custom theme](https://github.com/OXID-eSales/oxideshop_ce/pull/963) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 week ago)
+- [can&#39;t load translation files from custom theme](https://github.com/OXID-eSales/oxideshop_ce/pull/963) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 weeks ago)
 - [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 weeks ago)
-- [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (2 weeks ago)
+- [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (3 weeks ago)
 - [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
 - [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (6 months ago)
 - [missing template block for search article list](https://github.com/OXID-eSales/apex-theme/pull/46) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (6 months ago)
-- [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (8 months ago)
+- [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (9 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/25) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (9 months ago)
 - [add required locale and storefront parameters as configurable settings](https://github.com/productflowbv/kaufland-php-client/pull/24) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (9 months ago)
 - [make HTTP client exchangeable](https://github.com/productflowbv/kaufland-php-client/pull/21) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (9 months ago)
