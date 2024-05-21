@@ -9,7 +9,7 @@
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 week ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
-- [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 week ago)
+- [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (2 weeks ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (2 weeks ago)
 - [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (2 weeks ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (2 weeks ago)
