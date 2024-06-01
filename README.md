@@ -11,9 +11,9 @@
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 weeks ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (3 weeks ago)
 - [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (4 weeks ago)
-- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (4 weeks ago)
-- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (4 weeks ago)
-- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (4 weeks ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (1 month ago)
+- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 month ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 month ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
 - [d3datadevelopment/ExtSearch](https://github.com/d3datadevelopment/ExtSearch) - Extended search module for OXID eShop (3 months ago)
 
