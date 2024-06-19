@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 week ago)
-- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (1 week ago)
+- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (2 weeks ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (1 month ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 month ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
