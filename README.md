@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (today)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 week ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (2 weeks ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (1 month ago)
@@ -15,7 +16,6 @@
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (1 month ago)
 - [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 month ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 month ago)
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (4 months ago)
 
 #### 🌱 My latest projects
 
