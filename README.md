@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 3 years ago) - 
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 3 years ago) - D³ Module Connector for OXID eShop
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 4 years ago) - 
+- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 4 years ago) - D³ Module Connector for OXID eShop
 
 #### 🔨 My recent Pull Requests
 
