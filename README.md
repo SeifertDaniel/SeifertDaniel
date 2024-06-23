@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (1 day ago)
+- [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (2 days ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 week ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (2 weeks ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (1 month ago)
