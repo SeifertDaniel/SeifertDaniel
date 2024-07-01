@@ -13,9 +13,9 @@
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (1 month ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) - OXID eShop CE component (1 month ago)
-- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (1 month ago)
-- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 month ago)
-- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 month ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (2 months ago)
+- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (2 months ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (2 months ago)
 
 #### 🌱 My latest projects
 
