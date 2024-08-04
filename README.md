@@ -8,7 +8,7 @@
 
 - [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (1 month ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (1 month ago)
-- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (1 month ago)
+- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (2 months ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (2 months ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (2 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 months ago)
