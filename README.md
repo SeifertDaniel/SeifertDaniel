@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (today)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (2 weeks ago)
 - [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (2 months ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (2 months ago)
-- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (2 months ago)
 - [d3datadevelopment/DataWizard](https://github.com/d3datadevelopment/DataWizard) -  (3 months ago)
 - [d3datadevelopment/DataWizardTasks](https://github.com/d3datadevelopment/DataWizardTasks) -  (3 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 months ago)
