@@ -9,7 +9,7 @@
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 weeks ago)
 - [d3datadevelopment/TPL-development-helper](https://github.com/d3datadevelopment/TPL-development-helper) - Manipulate shop standard processes for easier development (3 weeks ago)
 - [SeifertDaniel/doctest](https://github.com/SeifertDaniel/doctest) -  (3 weeks ago)
-- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (4 weeks ago)
+- [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (1 month ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 month ago)
 - [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (3 months ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (3 months ago)
