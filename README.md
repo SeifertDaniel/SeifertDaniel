@@ -12,7 +12,7 @@
 - [d3datadevelopment/TPL-development-helper](https://github.com/d3datadevelopment/TPL-development-helper) - Manipulate shop standard processes for easier development (1 month ago)
 - [SeifertDaniel/doctest](https://github.com/SeifertDaniel/doctest) -  (1 month ago)
 - [d3datadevelopment/DIContainer](https://github.com/d3datadevelopment/DIContainer) -  (1 month ago)
-- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 month ago)
+- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (2 months ago)
 - [d3datadevelopment/Klarna-Replacement](https://github.com/d3datadevelopment/Klarna-Replacement) - This package removes the unused OXID Klarna module package from the shop and prevents conflicts in later updates. (3 months ago)
 - [d3datadevelopment/OxidTwigExtensions](https://github.com/d3datadevelopment/OxidTwigExtensions) -  (4 months ago)
 - [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) -  (4 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (8 months ago)
+- [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (9 months ago)
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository (9 months ago)
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering (9 months ago)
 - [wangchucheng/git-repo-sync](https://github.com/wangchucheng/git-repo-sync) - Git Repo Sync enables you to synchronize code to other code management platforms, such as GitLab, Gitee, etc. (9 months ago)
