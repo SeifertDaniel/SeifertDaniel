@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 weeks ago)
-- [SeifertDaniel/jtd](https://github.com/SeifertDaniel/jtd) -  (2 weeks ago)
+- [SeifertDaniel/jtd](https://github.com/SeifertDaniel/jtd) -  (3 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [d3datadevelopment/TPL-development-helper](https://github.com/d3datadevelopment/TPL-development-helper) - Manipulate shop standard processes for easier development (1 month ago)
 - [SeifertDaniel/doctest](https://github.com/SeifertDaniel/doctest) -  (1 month ago)
@@ -34,7 +34,7 @@
 
 - [submit on payment page don&#39;t triggers other submit events](https://github.com/OXID-eSales/apex-theme/pull/64) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (4 months ago)
 - [can&#39;t load translation files from custom theme](https://github.com/OXID-eSales/oxideshop_ce/pull/963) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
-- [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (5 months ago)
+- [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (6 months ago)
 - [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (6 months ago)
 - [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (10 months ago)
 - [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (11 months ago)
