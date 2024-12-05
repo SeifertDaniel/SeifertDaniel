@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (today)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 day ago)
-- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (2 days ago)
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (2 days ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (2 days ago)
+- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (2 days ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (3 days ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 months ago)
 - [SeifertDaniel/jtd](https://github.com/SeifertDaniel/jtd) -  (2 months ago)
