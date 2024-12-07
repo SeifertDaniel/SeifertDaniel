@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (1 day ago)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 days ago)
-- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (3 days ago)
-- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (3 days ago)
-- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (4 days ago)
+- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (2 days ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 days ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (4 days ago)
+- [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (4 days ago)
+- [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (5 days ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 months ago)
 - [SeifertDaniel/jtd](https://github.com/SeifertDaniel/jtd) -  (2 months ago)
 - [d3datadevelopment/TPL-development-helper](https://github.com/d3datadevelopment/TPL-development-helper) - Manipulate shop standard processes for easier development (3 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 3 days ago) - 
+- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 4 days ago) - 
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 4 years ago) - D³ Module Connector for OXID eShop
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) ([4.0.1.171](https://github.com/d3datadevelopment/Articlevoucher/releases/tag/4.0.1.171), 5 years ago) - Add a printorder function
 
