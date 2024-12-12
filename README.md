@@ -6,10 +6,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (today)
-- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (today)
-- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (today)
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (6 days ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 day ago)
+- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (1 day ago)
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (1 day ago)
+- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 week ago)
 - [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 week ago)
