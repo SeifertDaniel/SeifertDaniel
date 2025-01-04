@@ -9,7 +9,7 @@
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 weeks ago)
 - [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (3 weeks ago)
 - [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (3 weeks ago)
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (4 weeks ago)
+- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (1 month ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [FriendsOfOxid/oxideshop_project](https://github.com/FriendsOfOxid/oxideshop_project) -  (1 month ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce_smarty](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce_smarty) -  (1 month ago)
