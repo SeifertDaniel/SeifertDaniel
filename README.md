@@ -7,7 +7,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 month ago)
-- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (1 month ago)
+- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (2 months ago)
 - [d3datadevelopment/AttributeMultiValues](https://github.com/d3datadevelopment/AttributeMultiValues) -  (2 months ago)
 - [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) -  (3 months ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (3 months ago)
