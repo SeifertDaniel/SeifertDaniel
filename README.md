@@ -15,7 +15,7 @@
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (3 months ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 months ago)
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (3 months ago)
-- [SeifertDaniel/fuelLoggerProject](https://github.com/SeifertDaniel/fuelLoggerProject) -  (4 months ago)
+- [SeifertDaniel/fuellogger](https://github.com/SeifertDaniel/fuellogger) -  (4 months ago)
 
 #### 🌱 My latest projects
 
