@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (4 days ago)
-- [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (5 days ago)
+- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (5 days ago)
+- [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (6 days ago)
 - [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (2 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 months ago)
 - [d3datadevelopment/AttributeMultiValues](https://github.com/d3datadevelopment/AttributeMultiValues) -  (3 months ago)
@@ -40,7 +40,7 @@
 - [can&#39;t load translation files from custom theme](https://github.com/OXID-eSales/oxideshop_ce/pull/963) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 year ago)
 - [can&#39;t get EOF property from integer](https://github.com/OXID-eSales/oxideshop_ce/pull/962) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 year ago)
 - [OXID 7: add Smarty template support](https://github.com/OXID-eSales/paypal-module/pull/278) on [OXID-eSales/paypal-module](https://github.com/OXID-eSales/paypal-module) (1 year ago)
-- [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (1 year ago)
+- [fix missing backend startup checks](https://github.com/OXID-eSales/oxideshop_ce/pull/927) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 years ago)
 - [align content width of some checkout pages](https://github.com/OXID-eSales/apex-theme/pull/47) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
 - [missing template block for search article list](https://github.com/OXID-eSales/apex-theme/pull/46) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
 - [change url query encoding](https://github.com/productflowbv/kaufland-php-client/pull/26) on [productflowbv/kaufland-php-client](https://github.com/productflowbv/kaufland-php-client) (2 years ago)
