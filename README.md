@@ -9,7 +9,7 @@
 - [d3datadevelopment/LoginAsCustomer](https://github.com/d3datadevelopment/LoginAsCustomer) -  (1 week ago)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (2 weeks ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (2 weeks ago)
-- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (4 weeks ago)
+- [d3datadevelopment/PRGredirect](https://github.com/d3datadevelopment/PRGredirect) -  (1 month ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 months ago)
 - [d3datadevelopment/AttributeMultiValues](https://github.com/d3datadevelopment/AttributeMultiValues) -  (3 months ago)
 - [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) -  (4 months ago)
