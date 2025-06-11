@@ -6,6 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (today)
 - [d3datadevelopment/LoginAsCustomer](https://github.com/d3datadevelopment/LoginAsCustomer) -  (2 weeks ago)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (3 weeks ago)
 - [d3datadevelopment/TestingTools](https://github.com/d3datadevelopment/TestingTools) -  (3 weeks ago)
@@ -15,7 +16,6 @@
 - [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) -  (4 months ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (4 months ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (4 months ago)
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (4 months ago)
 
 #### 🌱 My latest projects
 
