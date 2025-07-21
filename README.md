@@ -9,7 +9,7 @@
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (2 weeks ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (2 weeks ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 weeks ago)
-- [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (3 weeks ago)
+- [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (4 weeks ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (1 month ago)
 - [d3datadevelopment/LoginAsCustomer](https://github.com/d3datadevelopment/LoginAsCustomer) -  (1 month ago)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (2 months ago)
