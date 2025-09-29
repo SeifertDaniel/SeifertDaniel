@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 9 months ago) - 
+- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 10 months ago) - 
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 5 years ago) - 
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 5 years ago) - D³ Module Connector for OXID eShop
 
