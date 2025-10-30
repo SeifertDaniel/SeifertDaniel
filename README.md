@@ -10,7 +10,7 @@
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (2 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 months ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (3 months ago)
+- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (4 months ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (4 months ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (4 months ago)
 - [d3datadevelopment/LoginAsCustomer](https://github.com/d3datadevelopment/LoginAsCustomer) -  (5 months ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) ([v5.6.4](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/releases/tag/v5.6.4), 2 days ago) - Klarna Checkout and Klarna Payments Module for the OXID eShop version &gt;= 6.0.0
+- [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) ([v5.6.4](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/releases/tag/v5.6.4), 3 days ago) - Klarna Checkout and Klarna Payments Module for the OXID eShop version &gt;= 6.0.0
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 11 months ago) - 
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 5 years ago) - 
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 5 years ago) - D³ Module Connector for OXID eShop
