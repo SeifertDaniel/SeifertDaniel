@@ -8,7 +8,7 @@
 
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 month ago)
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (2 months ago)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 months ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 months ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (3 months ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (4 months ago)
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (4 months ago)
