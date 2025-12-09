@@ -1,3 +1,111 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #eeeeea;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 400px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: start;
+}
+
+.card {
+    width: 80px;
+    border-radius: .75rem;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 2rem;
+    margin: 0 10px;
+    display: flex;
+    align-items: flex-end;
+    transition: .6s cubic-bezier(.28,-0.03,0,.99);
+    box-shadow: 0px 10px 30px -5px rgba(0,0,0,0.8);
+}
+
+.card > .row {
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.card > .row > .icon {
+    background: #223;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    opacity: 1;
+    transition: all .3s ease;
+}
+
+.card > .row > .description {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    height: 80px;
+    width: 520px;
+    opacity: 0;
+    transform: translateY(30px);
+    transition-delay: .3s;
+    transition: all .3s ease;
+}
+
+.description p {
+    color: #dedede;
+    padding-top: 5px;
+}
+
+.description h4 {
+    text-transform: uppercase;
+}
+
+input {
+    display: none;
+}
+
+input:checked + label {
+    width: 600px;
+}
+
+input:checked + label .description {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
+.card[for="c1"] {
+    background-image: url('./img1.jpeg');
+}
+.card[for="c2"] {
+    background-image: url('./img2.jpeg');
+}
+.card[for="c3"] {
+    background-image: url('./img3.jpeg');
+}
+.card[for="c4"] {
+    background-image: url('./img4.jpeg');
+}
+
+/***************/ 
+
 /* poppins-100 - latin */
 @font-face {
   font-family: 'Poppins';
@@ -130,22 +238,7 @@
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
-html {
-    background: #353534;
-    background: -moz-linear-gradient(top,  #353534 0%, #020201 100%);
-    background: -webkit-linear-gradient(top,  #353534 0%,#020201 100%);
-    background: linear-gradient(to bottom,  #353534 0%,#020201 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#353534', endColorstr='#020201',GradientType=0 );
-}
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-    background-image: url("pattern.jpg");
-    background-size: auto 100%;
-}
-.card {
+.description .card {
     position: relative;
     width: 350px;
     height: 190px;
@@ -153,11 +246,13 @@ body {
     border-radius: 20px;
     box-shadow: 0 35px 80px, rgba(0,0,0,0.15);
     transition: 0.5s;
+    cursor: default;
+    overflow: unset;
 }
-.card:hover {
-    height: 390px;
+.description .card:hover {
+    height: 300px;
 }
-.imgBx {
+.description .imgBx {
     position: absolute;
     left: 50%;
     top: -50px;
@@ -170,11 +265,11 @@ body {
     overflow: hidden;
     transition: 0.5s;
 }
-.card:hover .imgBx {
-    width: 250px;
-    height: 250px;
+.description .card:hover .imgBx {
+    width: 200px;
+    height: 200px;
 }
-.imgBx img {
+.description .imgBx img {
     position: absolute;
     top: 0;
     left: 0;
@@ -183,7 +278,7 @@ body {
     object-fit: cover;
     object-position: 5% 35%;
 }
-.card .content {
+.description .card .content {
     position: absolute;
     width: 100%;
     height: 100%;
@@ -192,51 +287,54 @@ body {
     align-items: flex-end;
     overflow: hidden;
 }
-.card .content .details {
-    padding: 40px;
+.description .card .content .details {
+    padding: 60px 30px;
     text-align: center;
     width: 100%;
-    transition: 0.5s;
+    /*transition: 0.5s;*/
+    transition: all 0.5s ease 0s;
     transform: translateY(100px);
 }
-.card:hover .content .details {
+.description .card:hover .content .details {
     transform: translateY(0);
+    padding-bottom: 20px;
+    padding-top: 20px;
 }
-.card .content .details h2 {
+.description .card .content .details h2 {
     font-size: 1.25em;
     font-weight: 600;
     color: #555;
     line-height: 1.2em;
 }
-.card .content .details h2 span {
+.description .card .content .details h2 span {
     font-size: 0.75em;
     font-weight: 500;
     opacity: 0.5;
 }
-.card .content .details .data {
+.description .card .content .details .data {
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
 }
-.card .content .details .data h3 {
+.description .card .content .details .data h3 {
     font-size: 1em;
     color: #555;
     line-height: 1.2em;
     font-weight: 600;
 }
-.card .content .details .data h3 span {
+.description .card .content .details .data h3 span {
     font-size: 0.85em;
     font-weight: 400;
     opacity: 0.5;
 }
-.card .content .details .actionBtn {
-    margin-top: 30px;
+.description .card .content .details .actionBtn {
+    margin-top: 15px;
     display: flex;
     justify-content: space-between;
     gap: 20px;
 }
-.card .content .details .actionBtn button {
-    padding: 10px 30px;
+.description .card .content .details .actionBtn button {
+    padding: 10px 0;
     border-radius: 5px;
     border: none;
     outline: none;
@@ -246,10 +344,58 @@ body {
     color: #fff;
     cursor: pointer;
 }
-/*
-.card .content .details .actionBtn button:nth-child(2) {
-    border: 1px solid #999;
-    color: #999;
-    background: #fff;
+
+.description .card .content .details .actionBtn button a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px;
 }
-*/
+
+/**************************/
+
+.card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);
+}
+
+.card > .row > .description {
+    height: 380px;
+    justify-content: end;
+}
+
+.card > .row > .icon {
+    writing-mode: sideways-lr;
+    background: none;
+    cursor: pointer;
+    height: 370px;
+    justify-content: start;
+}
+
+.description > .card:first-of-type {
+    margin: 40px auto 0;
+}
+
+.container > .card:first-of-type > .row {
+    position: relative;
+}
+
+.container > .card:first-of-type > .row > .icon {
+    position: absolute;
+    bottom: 0;
+}
+
+.container > .card:first-of-type > .row > .description {
+    height: 400px;
+    width: 485px;
+    justify-content: center;
+    position: relative;
+    left: 60px;
+}
+
+input:checked + label .row .icon {
+    opacity: 0;
+}
+
+.description p a {
+    color: white;
+    text-decoration: underline;
+}

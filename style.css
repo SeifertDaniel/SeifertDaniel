@@ -1,0 +1,370 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #eeeeea;
+}
+
+h1 {
+    display: none;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+.wrapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    height: 400px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: start;
+}
+
+.card {
+    width: 80px;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 2rem;
+    margin: 0 10px;
+    display: flex;
+    align-items: flex-end;
+    transition: .6s cubic-bezier(.28,-0.03,0,.99);
+    box-shadow: 0 10px 30px -5px rgba(0,0,0,0.8);
+}
+
+.card > .row {
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.card > .row > .icon {
+    background: #223;
+    color: white;
+    border-radius: 50%;
+    width: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 15px;
+    opacity: 1;
+    transition: all .3s ease;
+}
+
+.card > .row > .description {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    height: 80px;
+    width: 520px;
+    opacity: 0;
+    transform: translateY(30px);
+    transition-delay: .3s;
+    transition: all .3s ease;
+}
+
+.description p,
+.description blockquote {
+    color: #dedede;
+    margin-top: 12px;
+}
+
+.description p > span.tag {
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 3px;
+    padding: 3px;
+    text-decoration: none;
+    transition: all .3s ease;
+    line-height: 26px;
+    color: white;
+}
+
+.description p > span.tag:hover {
+    background-color: rgba(255,255,255,0.6);
+}
+
+.description h4 {
+    text-transform: uppercase;
+}
+
+input {
+    display: none;
+}
+
+input:checked + label {
+    width: 600px;
+}
+
+input:checked + label .description {
+    opacity: 1 !important;
+    transform: translateY(0) !important;
+}
+
+.card[for="c1"] {
+    background-image: url('./img1.jpeg');
+}
+.card[for="c2"] {
+    background-image: url('./img2.jpeg');
+}
+.card[for="c3"] {
+    background-image: url('./img3.jpeg');
+}
+.card[for="c4"] {
+    background-image: url('./img4.jpeg');
+}
+
+/***************/ 
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.description .card {
+    position: relative;
+    width: 350px;
+    height: 190px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 35px 80px, rgba(0,0,0,0.15);
+    transition: 0.5s;
+    cursor: default;
+    overflow: unset;
+}
+.description .card:hover {
+    height: 300px;
+}
+.description .imgBx {
+    position: absolute;
+    left: 50%;
+    top: -50px;
+    transform: translateX(-50%);
+    width: 150px;
+    height: 150px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 15px 50px rgba(0,0,0,0.35);
+    overflow: hidden;
+    transition: 0.5s;
+}
+.description .card:hover .imgBx {
+    width: 200px;
+    height: 200px;
+}
+.description .imgBx img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 5% 35%;
+}
+.description .card .content {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    overflow: hidden;
+}
+.description .card .content .details {
+    padding: 60px 30px;
+    text-align: center;
+    width: 100%;
+    /*transition: 0.5s;*/
+    transition: all 0.5s ease 0s;
+    transform: translateY(100px);
+}
+.description .card:hover .content .details {
+    transform: translateY(0);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.description .card .content .details h2 {
+    font-size: 1.25em;
+    font-weight: 600;
+    color: #555;
+    line-height: 1.2em;
+}
+.description .card .content .details h2 span {
+    font-size: 0.75em;
+    font-weight: 500;
+    opacity: 0.5;
+}
+.description .card .content .details .data {
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+}
+.description .card .content .details .data h3 {
+    font-size: 1em;
+    color: #555;
+    line-height: 1.2em;
+    font-weight: 600;
+}
+.description .card .content .details .data h3 span {
+    font-size: 0.85em;
+    font-weight: 400;
+    opacity: 0.5;
+}
+.description .card .content .details .actionBtn {
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+.description .card .content .details .actionBtn button {
+    padding: 10px 0;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-size: 1em;
+    font-weight: 500;
+    background: #4169E1;
+    color: #fff;
+    cursor: pointer;
+}
+
+.description .card .content .details .actionBtn button a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 30px;
+}
+
+/**************************/
+
+.card > .row {
+    background: rgba(0,0,0,0.5);
+    position: relative;
+    transition: background 0.6s ease 0s;
+}
+
+.card:first-of-type > .row {
+    background: none;
+}
+
+input:checked + .card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);
+}
+input#c2:checked + .card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.7) 40%, rgba(0,0,0,0) 100%);
+}
+input#c3:checked + .card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 100%);
+}
+
+.card > .row > .description {
+    height: 370px;
+    width: 505px;
+    justify-content: end;
+    margin: 15px 15px 15px 80px;
+}
+
+.card > .row > .icon {
+    background: none;
+    cursor: pointer;
+    justify-content: start;
+    rotate: -90deg;
+    height: 80px;
+    width: 400px;
+    position: absolute;
+    left: -160px;
+    top: 160px;
+    margin: 0;
+    padding: 20px;
+}
+
+.description > .card:first-of-type {
+    margin: 40px auto 0;
+}
+
+.container > .card:first-of-type > .row {
+    position: relative;
+}
+
+.container > .card:first-of-type > .row > .description {
+    width: 440px;
+    justify-content: center;
+    position: relative;
+    margin-right: 80px;
+}
+
+input:checked + label .row .icon {
+    opacity: 0;
+}
+
+.description p a {
+    color: white;
+    text-decoration: underline;
+}
+
+@media screen and (max-width: 992px) {
+    .container {
+        rotate: 90deg;
+        margin-top: 50px;
+        height: 340px;
+    }
+    .card {
+        background-size: auto 100%;
+        width: 60px;
+    }
+    .card > .row {
+        rotate: -90deg;
+        top: 85px;
+        left: 85px;
+    }
+    .card > .row > .icon {
+        rotate: none;
+        top: 0;
+        left: 0;
+        width: 340px;
+        height: 60px;
+        padding: 15px;
+    }
+    .card > .row > .description {
+        width: 310px;
+        height: 440px;
+        margin: 55px 15px 15px;
+    }
+    .description > .card {
+        width: 310px;
+    }
+    .description > .card .content .details {
+        padding: 60px 20px;
+    }
+    .container > .card:first-of-type > .row > .description {
+        margin-right: 15px;
+        width: 310px;
+    }
+    input:checked + label {
+        width: 510px;
+    }
+    .card[for="c1"] {
+        background-image: url('./img1v.jpg');
+    }
+    .card[for="c2"] {
+        background-image: url('./img2v.jpg');
+    }
+    .card[for="c3"] {
+        background-image: url('./img3v.jpg');
+    }
+    .card[for="c4"] {
+        background-image: url('./img4v.jpg');
+    }
+}
