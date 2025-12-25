@@ -6,7 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/ci-actions](https://github.com/d3datadevelopment/ci-actions) -  (today)
+- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (today)
+- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (today)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (2 months ago)
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (4 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (4 months ago)
@@ -15,7 +16,6 @@
 - [d3datadevelopment/bestellmengenmanager](https://github.com/d3datadevelopment/bestellmengenmanager) -  (6 months ago)
 - [FriendsOfOxid/oxideshop_metapackage_ce](https://github.com/FriendsOfOxid/oxideshop_metapackage_ce) -  (6 months ago)
 - [d3datadevelopment/LoginAsCustomer](https://github.com/d3datadevelopment/LoginAsCustomer) -  (7 months ago)
-- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (7 months ago)
 
 #### 🌱 My latest projects
 
