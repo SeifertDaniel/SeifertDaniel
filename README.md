@@ -8,8 +8,8 @@
 
 - [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (2 days ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 days ago)
-- [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (3 days ago)
 - [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (3 days ago)
+- [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (3 days ago)
 - [d3datadevelopment/OxLogIQ_Sentry](https://github.com/d3datadevelopment/OxLogIQ_Sentry) -  (4 days ago)
 - [d3datadevelopment/OxLogIQ](https://github.com/d3datadevelopment/OxLogIQ) -  (6 days ago)
 - [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (2 weeks ago)
