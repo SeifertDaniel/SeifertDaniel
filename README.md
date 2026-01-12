@@ -6,16 +6,16 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (3 days ago)
+- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (today)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 days ago)
+- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (3 days ago)
 - [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (4 days ago)
 - [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (4 days ago)
 - [d3datadevelopment/OxLogIQ_Sentry](https://github.com/d3datadevelopment/OxLogIQ_Sentry) -  (5 days ago)
 - [d3datadevelopment/OxLogIQ](https://github.com/d3datadevelopment/OxLogIQ) -  (1 week ago)
-- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (2 weeks ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 weeks ago)
+- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (2 weeks ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 months ago)
-- [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) -  (4 months ago)
 
 #### 🌱 My latest projects
 
