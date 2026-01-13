@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (today)
-- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 days ago)
-- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (3 days ago)
-- [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (4 days ago)
-- [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (4 days ago)
-- [d3datadevelopment/OxLogIQ_Sentry](https://github.com/d3datadevelopment/OxLogIQ_Sentry) -  (5 days ago)
+- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (1 day ago)
+- [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (4 days ago)
+- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (4 days ago)
+- [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (5 days ago)
+- [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (5 days ago)
+- [d3datadevelopment/OxLogIQ_Sentry](https://github.com/d3datadevelopment/OxLogIQ_Sentry) -  (6 days ago)
 - [d3datadevelopment/OxLogIQ](https://github.com/d3datadevelopment/OxLogIQ) -  (1 week ago)
 - [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (2 weeks ago)
 - [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (2 weeks ago)
@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) ([v5.6.7](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/releases/tag/v5.6.7), 3 days ago) - Klarna Checkout and Klarna Payments Module for the OXID eShop version &gt;= 6.0.0
+- [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) ([v5.6.7](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/releases/tag/v5.6.7), 4 days ago) - Klarna Checkout and Klarna Payments Module for the OXID eShop version &gt;= 6.0.0
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 1 year ago) - 
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) ([4.0.0.001](https://github.com/d3datadevelopment/Ordermanager/releases/tag/4.0.0.001), 5 years ago) - 
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 5 years ago) - D³ Module Connector for OXID eShop
