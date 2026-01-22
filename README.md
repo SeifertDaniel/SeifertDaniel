@@ -9,12 +9,12 @@
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 week ago)
 - [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (1 week ago)
-- [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (1 week ago)
-- [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (1 week ago)
+- [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (2 weeks ago)
+- [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (2 weeks ago)
 - [d3datadevelopment/OxLogIQ_Sentry](https://github.com/d3datadevelopment/OxLogIQ_Sentry) -  (2 weeks ago)
 - [d3datadevelopment/OxLogIQ](https://github.com/d3datadevelopment/OxLogIQ) -  (2 weeks ago)
-- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (3 weeks ago)
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (3 weeks ago)
+- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (4 weeks ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (4 weeks ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 months ago)
 
 #### 🌱 My latest projects
@@ -34,7 +34,7 @@
 #### 🔨 My recent Pull Requests
 
 - [syntactical errors](https://github.com/OXID-eSales/twig-theme/pull/15) on [OXID-eSales/twig-theme](https://github.com/OXID-eSales/twig-theme) (3 months ago)
-- [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (7 months ago)
+- [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (8 months ago)
 - [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (8 months ago)
 - [add template block around account dashboard items](https://github.com/OXID-eSales/apex-theme/pull/66) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (11 months ago)
 - [submit on payment page don&#39;t triggers other submit events](https://github.com/OXID-eSales/apex-theme/pull/64) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
