@@ -13,8 +13,8 @@
 - [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (2 weeks ago)
 - [d3datadevelopment/OxLogIQ_Sentry](https://github.com/d3datadevelopment/OxLogIQ_Sentry) -  (2 weeks ago)
 - [d3datadevelopment/OxLogIQ](https://github.com/d3datadevelopment/OxLogIQ) -  (2 weeks ago)
-- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (4 weeks ago)
-- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (4 weeks ago)
+- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (1 month ago)
+- [d3datadevelopment/linkmobility-php-client](https://github.com/d3datadevelopment/linkmobility-php-client) -  (1 month ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (3 months ago)
 
 #### 🌱 My latest projects
