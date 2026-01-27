@@ -27,7 +27,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) ([v5.6.7](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/releases/tag/v5.6.7), 2 weeks ago) - Klarna Checkout and Klarna Payments Module for the OXID eShop version &gt;= 6.0.0
+- [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) ([v5.6.8](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/releases/tag/v5.6.8), today) - Klarna Checkout and Klarna Payments Module for the OXID eShop version &gt;= 6.0.0
 - [d3datadevelopment/tinymce-editor](https://github.com/d3datadevelopment/tinymce-editor) ([1.1.0](https://github.com/d3datadevelopment/tinymce-editor/releases/tag/1.1.0), 1 year ago) - 
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) ([5.3.1.172](https://github.com/d3datadevelopment/ModCfg/releases/tag/5.3.1.172), 5 years ago) - D³ Module Connector for OXID eShop
 
