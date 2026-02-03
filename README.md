@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (today)
 - [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (4 days ago)
-- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (4 days ago)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (3 weeks ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (3 weeks ago)
 - [d3datadevelopment/OxLogIQ_HttpApi](https://github.com/d3datadevelopment/OxLogIQ_HttpApi) -  (3 weeks ago)
