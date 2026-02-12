@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (1 day ago)
+- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (today)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (2 days ago)
 - [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (2 days ago)
 - [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (2 days ago)
