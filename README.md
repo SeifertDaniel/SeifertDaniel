@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (today)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (today)
-- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (3 days ago)
-- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (3 days ago)
-- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (3 days ago)
+- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (1 day ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 day ago)
+- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (4 days ago)
+- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (4 days ago)
+- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (4 days ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 week ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
@@ -48,7 +48,8 @@
 
 #### ⭐ Recent Stars
 
-- [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP (11 months ago)
+- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event (1 day ago)
+- [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP (1 year ago)
 - [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (2 years ago)
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository (2 years ago)
 - [toniebox-reverse-engineering/toniebox](https://github.com/toniebox-reverse-engineering/toniebox) - Holds all gathered information. Join our telegram-channel Check out our Telegram Channel https://t.me/toniebox_reverse_engineering (2 years ago)
@@ -57,7 +58,6 @@
 - [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies. (2 years ago)
 - [beberlei/assert](https://github.com/beberlei/assert) - Thin assertion library for use in libraries and business-model (3 years ago)
 - [Vincebml/PHPatterns](https://github.com/Vincebml/PHPatterns) - The 23 Gang of Four (GoF) design patterns written in PHP. (3 years ago)
-- [majodev/google-webfonts-helper](https://github.com/majodev/google-webfonts-helper) - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files &#43; CSS snippets (3 years ago)
 
 #### 💬 Feedback
 
