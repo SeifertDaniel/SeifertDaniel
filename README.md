@@ -6,12 +6,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (today)
-- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (1 day ago)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (3 days ago)
-- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (6 days ago)
-- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (6 days ago)
-- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (6 days ago)
+- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (1 day ago)
+- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (2 days ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (4 days ago)
+- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (1 week ago)
+- [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (1 week ago)
+- [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (1 week ago)
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 week ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
 - [d3datadevelopment/guzzleFactory](https://github.com/d3datadevelopment/guzzleFactory) -  (1 month ago)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event (3 days ago)
+- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event (4 days ago)
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP (1 year ago)
 - [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (2 years ago)
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository (2 years ago)
