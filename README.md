@@ -9,8 +9,8 @@
 - [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (3 weeks ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (3 weeks ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (3 weeks ago)
-- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (3 weeks ago)
-- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (4 weeks ago)
+- [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (4 weeks ago)
+- [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 month ago)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (1 month ago)
 - [d3datadevelopment/CI-Tests](https://github.com/d3datadevelopment/CI-Tests) -  (1 month ago)
 - [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (1 month ago)
@@ -49,7 +49,7 @@
 
 #### ⭐ Recent Stars
 
-- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event (4 weeks ago)
+- [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event (1 month ago)
 - [sarven/unit-testing-tips](https://github.com/sarven/unit-testing-tips) - Unit testing tips by examples in PHP (1 year ago)
 - [webtutorialsw/css_sliding_cards](https://github.com/webtutorialsw/css_sliding_cards) -  (2 years ago)
 - [cpina/github-action-push-to-another-repository](https://github.com/cpina/github-action-push-to-another-repository) - github Action to push files into another Github repository (2 years ago)
