@@ -8,7 +8,7 @@
 
 - [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (3 weeks ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (3 weeks ago)
-- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (3 weeks ago)
+- [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (4 weeks ago)
 - [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (4 weeks ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 month ago)
 - [d3datadevelopment/klicktipp-php-client](https://github.com/d3datadevelopment/klicktipp-php-client) - Klicktipp PHP Client (1 month ago)
