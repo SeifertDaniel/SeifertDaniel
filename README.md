@@ -6,8 +6,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (3 weeks ago)
-- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (3 weeks ago)
+- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (4 weeks ago)
+- [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (4 weeks ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (1 month ago)
 - [SeifertDaniel/docs](https://github.com/SeifertDaniel/docs) -  (1 month ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (1 month ago)
@@ -36,7 +36,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (1 week ago)
+- [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (2 weeks ago)
 - [syntactical errors](https://github.com/OXID-eSales/twig-theme/pull/15) on [OXID-eSales/twig-theme](https://github.com/OXID-eSales/twig-theme) (5 months ago)
 - [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (9 months ago)
 - [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (10 months ago)
