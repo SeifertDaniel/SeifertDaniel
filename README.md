@@ -38,7 +38,7 @@
 - [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (1 month ago)
 - [syntactical errors](https://github.com/OXID-eSales/twig-theme/pull/15) on [OXID-eSales/twig-theme](https://github.com/OXID-eSales/twig-theme) (6 months ago)
 - [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (10 months ago)
-- [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (10 months ago)
+- [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (11 months ago)
 - [add template block around account dashboard items](https://github.com/OXID-eSales/apex-theme/pull/66) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (1 year ago)
 - [submit on payment page don&#39;t triggers other submit events](https://github.com/OXID-eSales/apex-theme/pull/64) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
 - [can&#39;t load translation files from custom theme](https://github.com/OXID-eSales/oxideshop_ce/pull/963) on [OXID-eSales/oxideshop_ce](https://github.com/OXID-eSales/oxideshop_ce) (2 years ago)
