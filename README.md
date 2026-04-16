@@ -6,9 +6,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (today)
-- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (2 days ago)
-- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 week ago)
+- [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (1 day ago)
+- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (3 days ago)
+- [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 weeks ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 month ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (1 month ago)
 - [d3datadevelopment/Ordermanager](https://github.com/d3datadevelopment/Ordermanager) -  (2 months ago)
