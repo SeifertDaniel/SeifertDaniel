@@ -6,11 +6,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfOxid/security-advisories-shop](https://github.com/FriendsOfOxid/security-advisories-shop) -  (1 day ago)
-- [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (1 day ago)
-- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (1 day ago)
-- [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (1 day ago)
-- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (4 days ago)
+- [FriendsOfOxid/security-advisories-shop](https://github.com/FriendsOfOxid/security-advisories-shop) -  (2 days ago)
+- [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (2 days ago)
+- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (2 days ago)
+- [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (2 days ago)
+- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (5 days ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (2 weeks ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (1 month ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (2 months ago)
