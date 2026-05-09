@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (4 days ago)
+- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (5 days ago)
 - [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (3 weeks ago)
 - [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (3 weeks ago)
 - [FriendsOfOxid/security-advisories-shop](https://github.com/FriendsOfOxid/security-advisories-shop) -  (3 weeks ago)
