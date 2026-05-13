@@ -10,7 +10,7 @@
 - [FriendsOfOxid/security-advisories-shop](https://github.com/FriendsOfOxid/security-advisories-shop) -  (3 weeks ago)
 - [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (3 weeks ago)
 - [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (3 weeks ago)
-- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (4 weeks ago)
+- [d3datadevelopment/CI-Documentation-Actions](https://github.com/d3datadevelopment/CI-Documentation-Actions) -  (1 month ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 month ago)
 - [d3datadevelopment/Articlevoucher](https://github.com/d3datadevelopment/Articlevoucher) - Add a printorder function (2 months ago)
 - [d3datadevelopment/ModCfg](https://github.com/d3datadevelopment/ModCfg) - D³ Module Connector for OXID eShop (2 months ago)
