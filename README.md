@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (today)
+- [d3datadevelopment/CI-Actions](https://github.com/d3datadevelopment/CI-Actions) -  (1 day ago)
 - [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (2 weeks ago)
 - [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (1 month ago)
 - [FriendsOfOxid/security-advisories-shop](https://github.com/FriendsOfOxid/security-advisories-shop) -  (1 month ago)
@@ -36,7 +36,7 @@
 
 - [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (2 months ago)
 - [syntactical errors](https://github.com/OXID-eSales/twig-theme/pull/15) on [OXID-eSales/twig-theme](https://github.com/OXID-eSales/twig-theme) (7 months ago)
-- [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (11 months ago)
+- [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (1 year ago)
 - [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (1 year ago)
 - [add template block around account dashboard items](https://github.com/OXID-eSales/apex-theme/pull/66) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (1 year ago)
 - [submit on payment page don&#39;t triggers other submit events](https://github.com/OXID-eSales/apex-theme/pull/64) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
