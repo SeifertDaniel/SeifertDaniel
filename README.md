@@ -13,7 +13,7 @@
 - [d3datadevelopment/PDFDocuments](https://github.com/d3datadevelopment/PDFDocuments) - PDF document generator for OXID eShop (1 month ago)
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (1 month ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (1 month ago)
-- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (2 months ago)
+- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (3 months ago)
 - [FriendsOfOxid/security-advisories-shop](https://github.com/FriendsOfOxid/security-advisories-shop) -  (3 months ago)
 - [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (3 months ago)
 
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (4 months ago)
+- [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (5 months ago)
 - [syntactical errors](https://github.com/OXID-eSales/twig-theme/pull/15) on [OXID-eSales/twig-theme](https://github.com/OXID-eSales/twig-theme) (10 months ago)
 - [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (1 year ago)
 - [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (1 year ago)
