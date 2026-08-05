@@ -76,6 +76,135 @@ h2 {
     transition: all .3s ease;
 }
 
+
+/* ---------------------------------------
+ * Kartenkopf
+ * --------------------------------------- */
+
+.card-header {
+    position: sticky;
+    top: 0;
+    padding: 0 0 12px;
+    background: linear-gradient(
+            rgba(0,0,0,.55),
+            rgba(0,0,0,.25),
+            transparent
+    );
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+    backdrop-filter: blur(3px);
+}
+
+.card-header h2 {
+    font-size: 1.4rem;
+    font-weight: 500;
+    line-height: 1.2;
+    margin: 0 0 0.5rem 0;
+}
+
+
+/* ---------------------------------------
+ * Inhaltsverzeichnis
+ * --------------------------------------- */
+
+.toc {
+    margin-top: 4px;
+    gap: 14px;
+}
+
+.toc label {
+    cursor: pointer;
+    opacity: .55;
+    transition: .3s;
+    margin-right: 1rem;
+}
+
+.toc button {
+    font-size: .8rem;
+    opacity: .75;
+}
+
+.toc button:hover {
+    color: white;
+}
+
+.toc button.active {
+    color: white;
+    font-weight: 600;
+}
+
+.toc button.active::after {
+    content: "";
+    display: block;
+    margin-top: 3px;
+    height: 2px;
+    border-radius: 2px;
+    background: rgba(255,255,255,.9);
+}
+
+.card-viewport {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
+.card-pages {
+    display: flex;
+    width: 400%;
+    transition: transform .45s cubic-bezier(.28,-0.03,0,.99);
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding-right: 0;
+    scroll-snap-type: y mandatory;
+}
+
+#prog-overview:checked ~ .card-viewport .card-pages {
+    transform: translateX(0%);
+}
+
+#prog-skills:checked ~ .card-viewport .card-pages {
+    transform: translateX(-25%);
+}
+
+#prog-projects:checked ~ .card-viewport .card-pages {
+    transform: translateX(-50%);
+}
+
+#prog-overview:checked ~ .card-header .toc label[for="prog-overview"],
+#prog-skills:checked ~ .card-header .toc label[for="prog-skills"],
+#prog-projects:checked ~ .card-header .toc label[for="prog-projects"] {
+    opacity: 1;
+}
+
+.card-viewport::-webkit-scrollbar {
+    display: none;
+}
+.card-viewport h3 {
+    margin: 0 0 14px;
+    font-size: 1rem;
+    font-weight: 600;
+    color: white;
+}
+
+.card-page {
+    flex: 0 0 25%;
+    padding: 1rem 0;
+    scroll-margin-top: 90px;
+    backdrop-filter: blur(3px);
+}
+
+.card-page:last-child {
+    padding-bottom: 10px;
+}
+
+.card-page > h3 {
+    display: none;
+}
+
+.card-page ul {
+    margin-left: 1.5rem;
+}
+
 .description p,
 .description blockquote {
     color: #dedede;
@@ -274,6 +403,10 @@ input#c3:checked + .card > .row {
     width: 505px;
     justify-content: end;
     margin: 15px 15px 15px 80px;
+}
+
+.card:not(.card-contact) > .row > .description {
+    font-size: 0.75rem
 }
 
 .card > .row > .icon {
