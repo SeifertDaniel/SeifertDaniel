@@ -406,11 +406,13 @@ input:checked + label .description {
     font-weight: 400;
     opacity: 0.5;
 }
+
 .description .card .content .details .actionBtn {
-    margin-top: 15px;
+    margin-top: 18px;
+
     display: flex;
-    justify-content: space-between;
-    gap: 20px;
+    justify-content: center;
+    gap: 18px;
 
     opacity: 0;
     visibility: hidden;
@@ -424,22 +426,41 @@ input:checked + label .description {
     visibility: visible;
 }
 
-.description .card .content .details .actionBtn button {
-    padding: 10px 0;
-    border-radius: 5px;
-    border: none;
-    outline: none;
-    font-size: 1em;
-    font-weight: 500;
-    background: #4169E1;
-    color: #fff;
-    cursor: pointer;
-}
+.description .card .content .details .actionBtn a {
 
-.description .card .content .details .actionBtn button a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+
+    min-width: 120px;
+    padding: .75rem 1.4rem;
+
+    border-radius: 999px;
+
+    background: rgba(53,94,114,.90);
+    border: 1px solid rgba(255,255,255,.18);
+
     color: #fff;
     text-decoration: none;
-    padding: 10px 30px;
+    font-weight: 500;
+    font-size: .95rem;
+
+    transition:
+            background .25s ease,
+            border-color .25s ease,
+            transform .25s ease,
+            box-shadow .25s ease;
+}
+
+.description .card .content .details .actionBtn a:hover {
+
+    background: rgba(65,113,136,1);
+
+    border-color: rgba(255,255,255,.35);
+
+    transform: translateY(-2px);
+
+    box-shadow: 0 8px 20px rgba(0,0,0,.18);
 }
 
 /**************************/
