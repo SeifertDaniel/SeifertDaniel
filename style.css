@@ -222,7 +222,7 @@ h2 {
 }
 
 .description p + p {
-    margin-top: 1rem;
+    margin-top: 0.5rem;
 }
 
 .chapter-quotes {
@@ -453,14 +453,43 @@ input:checked + label .description {
 }
 
 .description .card .content .details .actionBtn a:hover {
-
     background: rgba(65,113,136,1);
-
     border-color: rgba(255,255,255,.35);
-
     transform: translateY(-2px);
-
     box-shadow: 0 8px 20px rgba(0,0,0,.18);
+}
+
+.card-page.skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+    gap: 1rem 1.5rem;
+    align-content: start;
+}
+
+.skill-group {
+    margin: 0;
+}
+
+.skill-group h3 {
+    margin: 0 0 .2rem;
+    font-size: .8rem;
+    font-weight: 500;
+}
+
+.skill-group .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
+}
+
+.tag {
+    padding: .1rem .4rem;
+    border-radius: .4rem;
+    background: rgba(255,255,255,.08);
+    border: 1px solid rgba(255,255,255,.18);
+    color: rgba(255,255,255,.92);
+    font-size: .7rem;
+    white-space: nowrap;
 }
 
 /**************************/
@@ -493,7 +522,7 @@ input#c3:checked + .card > .row {
 }
 
 .card:not(.card-contact) > .row > .description {
-    font-size: 0.75rem
+    font-size: 0.8rem
 }
 
 .card > .row > .icon {
@@ -562,6 +591,19 @@ input:checked + label .row .icon {
         height: 440px;
         margin: 55px 15px 15px;
     }
+
+    .card-header h2 {
+        font-size: 1.2rem;
+    }
+
+    .toc {
+        font-size: .72rem;
+    }
+
+    .chapter-quotes .quote {
+        font-size: .88rem;
+    }
+
     .description > .card {
         width: 310px;
     }
@@ -572,6 +614,23 @@ input:checked + label .row .icon {
         margin-right: 15px;
         width: 310px;
     }
+
+    .card-page.skills {
+        gap: .65rem;
+    }
+
+    .skill-group {
+        margin: 0;
+    }
+
+    .skill-group h3 {
+        margin-bottom: .15rem;
+    }
+
+    .skill-group .tags {
+        gap: .25rem;
+    }
+
     input:checked + label {
         width: 510px;
     }
@@ -586,5 +645,19 @@ input:checked + label .row .icon {
     }
     .card[for="c4"] {
         background-image: url('./img4v.jpg');
+    }
+
+    .card:not(.card-contact) > .row > .description {
+        font-size: 0.78rem
+    }
+}
+
+@media (max-width: 640px) {
+    .card-page.skills {
+        display: block;
+    }
+
+    .skill-group {
+        margin-bottom: 0.4rem;
     }
 }
