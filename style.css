@@ -49,6 +49,7 @@ h2 {
     align-items: flex-end;
     transition: .6s cubic-bezier(.28,-0.03,0,.99);
     box-shadow: 0 10px 30px -5px rgba(0,0,0,0.8);
+    position: relative;
 }
 
 .card > .row {
@@ -83,6 +84,13 @@ h2 {
     transition: all .3s ease;
 }
 
+.card-trigger {
+    position: absolute;
+    inset: 0;
+    z-index: 10;
+
+    cursor: pointer;
+}
 
 /* ---------------------------------------
  * Kartenkopf
@@ -302,25 +310,25 @@ input {
     display: none;
 }
 
-input:checked + label {
+input:checked + .card {
     width: 600px;
 }
 
-input:checked + label .description {
+input:checked + .card .description {
     opacity: 1 !important;
     transform: none !important;
 }
 
-.card[for="c1"] {
+.card-contact {
     background-image: url('./img1.jpeg');
 }
-.card[for="c2"] {
+.card-programming {
     background-image: url('./img2.jpeg');
 }
-.card[for="c3"] {
+.card-photography {
     background-image: url('./img3.jpeg');
 }
-.card[for="c4"] {
+.card-layout {
     background-image: url('./img4.jpeg');
 }
 
@@ -762,10 +770,6 @@ input:checked + label .description {
     transition: background 0.6s ease 0s;
 }
 
-.card:first-of-type > .row {
-    background: none;
-}
-
 input:checked + .card > .row {
     background: linear-gradient(0deg, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0) 100%);
 }
@@ -774,6 +778,13 @@ input#c2:checked + .card > .row {
 }
 input#c3:checked + .card > .row {
     background: linear-gradient(0deg, rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 100%);
+}
+
+#c1:checked + .card .card-trigger,
+#c2:checked + .card .card-trigger,
+#c3:checked + .card .card-trigger,
+#c4:checked + .card .card-trigger {
+    display: none;
 }
 
 .card > .row > .description {
@@ -810,13 +821,10 @@ input#c3:checked + .card > .row {
 }
 
 .container > .card:first-of-type > .row > .description {
-    width: 440px;
     justify-content: center;
-    position: relative;
-    margin-right: 80px;
 }
 
-input:checked + label .row .icon {
+input:checked + .card .row .icon {
     opacity: 0;
 }
 
@@ -897,7 +905,7 @@ input:checked + label .row .icon {
         gap: .25rem;
     }
 
-    input:checked + label {
+    input:checked + .card {
         width: 510px;
     }
     .card[for="c1"] {
