@@ -593,11 +593,21 @@ input:checked + .card .description {
    Foto-Lightbox
    ======================================== */
 
-#photo-lightbox-1 {
+#photo-lightbox-1,
+#photo-lightbox-2,
+#photo-lightbox-3,
+#photo-lightbox-4,
+#photo-lightbox-5,
+#photo-lightbox-6 {
     display: none;
 }
 
-#photo-lightbox-1:checked ~ .photo-modal {
+#photo-lightbox-1:checked ~ .photo-modal-1,
+#photo-lightbox-2:checked ~ .photo-modal-2,
+#photo-lightbox-3:checked ~ .photo-modal-3,
+#photo-lightbox-4:checked ~ .photo-modal-4,
+#photo-lightbox-5:checked ~ .photo-modal-5,
+#photo-lightbox-6:checked ~ .photo-modal-6 {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
