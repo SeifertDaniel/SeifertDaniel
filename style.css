@@ -173,13 +173,13 @@ h2 {
     transform: translateX(-25%);
 }
 
-#prog-projects:checked ~ .card-viewport .card-pages {
+#prog-profile:checked ~ .card-viewport .card-pages {
     transform: translateX(-50%);
 }
 
 #prog-overview:checked ~ .card-header .toc label[for="prog-overview"],
 #prog-skills:checked ~ .card-header .toc label[for="prog-skills"],
-#prog-projects:checked ~ .card-header .toc label[for="prog-projects"] {
+#prog-profile:checked ~ .card-header .toc label[for="prog-profile"] {
     opacity: 1;
 }
 
@@ -266,7 +266,7 @@ h2 {
     transform: translateY(0);
 }
 
-#prog-projects:checked ~ .card-header .quote.projects {
+#prog-profile:checked ~ .card-header .quote.profile {
     opacity: 1;
     transform: translateY(0);
 }
@@ -459,7 +459,8 @@ input:checked + label .description {
     box-shadow: 0 8px 20px rgba(0,0,0,.18);
 }
 
-.card-page.skills {
+.card-page.skills,
+.card-page.profile {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
     gap: 1rem 1.5rem;
@@ -615,7 +616,8 @@ input:checked + label .row .icon {
         width: 310px;
     }
 
-    .card-page.skills {
+    .card-page.skills,
+    .card-page.profile {
         gap: .65rem;
     }
 
@@ -653,7 +655,8 @@ input:checked + label .row .icon {
 }
 
 @media (max-width: 640px) {
-    .card-page.skills {
+    .card-page.skills,
+    .card-page.profile {
         display: block;
     }
 
