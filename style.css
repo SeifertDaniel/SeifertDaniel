@@ -255,8 +255,6 @@ h2 {
 
     padding-left: .8rem;
 
-    border-left: 2px solid rgba(255,255,255,.20);
-
     font-size: .95rem;
     font-style: italic;
     font-weight: 300;
@@ -550,7 +548,8 @@ input:checked + .card .description {
     min-height: 0;
     width: 100%;
     overflow: hidden;
-    border-bottom: 1px solid rgba(255,255,255,0.5);
+    border: 1px solid rgba(255,255,255,0.5);
+    border-top: none;
 }
 
 
@@ -805,7 +804,7 @@ input#c3:checked + .card > .row {
 }
 
 .card:not(.card-contact) > .row > .description {
-    font-size: 0.8rem
+    font-size: 0.8rem;
 }
 
 .card > .row > .icon {
@@ -831,6 +830,7 @@ input#c3:checked + .card > .row {
 }
 
 .container > .card:first-of-type > .row > .description {
+    width: 440px;
     justify-content: center;
 }
 
@@ -880,6 +880,10 @@ input:checked + .card .row .icon {
         font-size: .72rem;
     }
 
+    .chapter-quotes {
+        margin: .3rem 0;
+    }
+
     .chapter-quotes .quote {
         font-size: .88rem;
     }
@@ -897,7 +901,7 @@ input:checked + .card .row .icon {
 
     .card-page.skills,
     .card-page.profile {
-        gap: .65rem;
+        gap: .3rem;
     }
 
     .skill-group,
