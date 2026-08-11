@@ -561,8 +561,9 @@ input:checked + .card .description {
     position: absolute;
     inset: 0;
 
-    margin: 0;
-    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
     opacity: 0;
     visibility: hidden;
@@ -570,22 +571,26 @@ input:checked + .card .description {
 
     transition:
             opacity .45s ease,
-            transform .6s ease,
+            transform .45s ease,
             visibility .45s ease;
 }
 
 .portfolio-item img {
     display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+
+    width: auto;
+    height: auto;
+
+    max-width: 100%;
+
+    object-fit: contain;
 }
 
-.portfolio-image {
-    display: block;
-    width: 100%;
-    height: 100%;
-    cursor: zoom-in;
+.portfolio-lightbox-trigger {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    cursor: pointer;
 }
 
 /* ========================================
@@ -601,12 +606,12 @@ input:checked + .card .description {
     display: none;
 }
 
-#photo-lightbox-1:checked ~ .photo-modal-1,
-#photo-lightbox-2:checked ~ .photo-modal-2,
-#photo-lightbox-3:checked ~ .photo-modal-3,
-#photo-lightbox-4:checked ~ .photo-modal-4,
-#photo-lightbox-5:checked ~ .photo-modal-5,
-#photo-lightbox-6:checked ~ .photo-modal-6 {
+body:has(#photo-lightbox-1:checked) .photo-modal-1,
+body:has(#photo-lightbox-2:checked) .photo-modal-2,
+body:has(#photo-lightbox-3:checked) .photo-modal-3,
+body:has(#photo-lightbox-4:checked) .photo-modal-4,
+body:has(#photo-lightbox-5:checked) .photo-modal-5,
+body:has(#photo-lightbox-6:checked) .photo-modal-6 {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
@@ -643,6 +648,7 @@ input:checked + .card .description {
 
     object-fit: contain;
 
+    border: 1px solid rgba(255,255,255,.5);
     border-radius: 8px;
 
     box-shadow: 0 20px 60px rgba(0, 0, 0, .6);
@@ -691,13 +697,15 @@ input:checked + .card .description {
     color: #fff;
 
     background:
-            linear-gradient(
-                    to top,
-                    rgba(0, 0, 0, .72),
-                    rgba(0, 0, 0, 0)
-            );
+        linear-gradient(
+                to top,
+                rgba(0, 0, 0, .72),
+                rgba(0, 0, 0, 0)
+        );
 
     font-size: .78rem;
+    z-index: 3;
+    pointer-events: none;
 }
 
 .portfolio-item figcaption strong {
@@ -937,6 +945,15 @@ input:checked + .card .row .icon {
 
     .card:not(.card-contact) > .row > .description {
         font-size: 0.78rem
+    }
+
+    .portfolio-item img {
+        max-width: fit-content;
+        max-height: 100%;
+    }
+
+    .photo-modal {
+        background: rgba(0, 0, 0, .75);
     }
 }
 

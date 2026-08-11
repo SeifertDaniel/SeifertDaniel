@@ -4,6 +4,15 @@
         <meta charset="UTF-8">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <style>
+            .photo-modal {
+                opacity: 0;
+                visibility: hidden;
+                pointer-events: none;
+            }
+        </style>
+
         <title>Daniel Seifert</title>
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
@@ -20,7 +29,7 @@
                         <div class="description">
                             <div class="card">
                                 <div class="imgBx">
-                                    <img src="me_contact_bw.jpg">
+                                    <img src="me_contact_bw.jpg" alt="Daniel Seifert">
                                 </div>
                                 <div class="content">
                                     <div class="details">
@@ -217,61 +226,6 @@
                             <input type="checkbox" id="photo-lightbox-5">
                             <input type="checkbox" id="photo-lightbox-6">
 
-                            <div class="photo-modal photo-modal-1">
-                                <label for="photo-lightbox-1"
-                                       class="photo-modal-close"
-                                       aria-label="Bild schließen">
-                                    <span>×</span>
-                                </label>
-                                <img src="images/IMG_2088.jpg"
-                                     alt="Verschneite Baumallee bei Nacht">
-                            </div>
-                            <div class="photo-modal photo-modal-2">
-                                <label for="photo-lightbox-2"
-                                       class="photo-modal-close"
-                                       aria-label="Bild schließen">
-                                    <span>×</span>
-                                </label>
-                                <img src="images/IMG_4282.jpg"
-                                     alt="Beleuchtete U-Bahn in Hamburg">
-                            </div>
-                            <div class="photo-modal photo-modal-3">
-                                <label for="photo-lightbox-3"
-                                       class="photo-modal-close"
-                                       aria-label="Bild schließen">
-                                    <span>×</span>
-                                </label>
-                                <img src="images/IMG_6845_1.jpg"
-                                     alt="Makroaufnahme einer Springspinne">
-                            </div>
-                            <div class="photo-modal photo-modal-4">
-                                <label for="photo-lightbox-4"
-                                       class="photo-modal-close"
-                                       aria-label="Bild schließen">
-                                    <span>×</span>
-                                </label>
-                                <img src="images/IMG_7646_3.jpg"
-                                     alt="Edinburgh bei tief stehender Sonne">
-                            </div>
-                            <div class="photo-modal photo-modal-5">
-                                <label for="photo-lightbox-5"
-                                       class="photo-modal-close"
-                                       aria-label="Bild schließen">
-                                    <span>×</span>
-                                </label>
-                                <img src="images/SinCity.jpg"
-                                     alt="Schwarzweißaufnahme mit roten Lichtspuren">
-                            </div>
-                            <div class="photo-modal photo-modal-6">
-                                <label for="photo-lightbox-6"
-                                       class="photo-modal-close"
-                                       aria-label="Bild schließen">
-                                    <span>×</span>
-                                </label>
-                                <img src="images/IMG_7570_1.jpg"
-                                     alt="Forth Bridge über dem Firth of Forth">
-                            </div>
-
                             <input type="radio" name="foto-page" id="foto-overview" checked>
                             <input type="radio" name="foto-page" id="foto-keys">
                             <input type="radio" name="foto-page" id="foto-portfolio">
@@ -366,69 +320,92 @@
                                         <div class="portfolio-stage">
 
                                             <figure class="portfolio-item item-1">
-                                                <label for="photo-lightbox-1" class="portfolio-image">
-                                                    <img src="images/IMG_2088.jpg"
-                                                         alt="Verschneite Baumallee bei Nacht">
+                                                <img src="images/IMG_2088.jpg"
+                                                     alt="Verschneite Baumallee bei Nacht">
 
-                                                    <figcaption>
-                                                        <strong>Winternacht</strong>
-                                                        <span>Natur · Available Light</span>
-                                                    </figcaption>
+                                                <figcaption>
+                                                    <strong>Winternacht</strong>
+                                                    <span>Natur · Available Light</span>
+                                                </figcaption>
+
+                                                <label for="photo-lightbox-1"
+                                                       class="portfolio-lightbox-trigger"
+                                                        aria-label="Winternacht vergr&ouml;&szlig;ert anzeigen">
                                                 </label>
                                             </figure>
 
                                             <figure class="portfolio-item item-2">
-                                                <label for="photo-lightbox-2" class="portfolio-image">
-                                                    <img src="images/IMG_4282.jpg"
-                                                         alt="Beleuchtete U-Bahn-Station in Hamburg">
-                                                    <figcaption>
-                                                        <strong>Hamburg U-Bahn</strong>
-                                                        <span>Architektur · Symmetrie und Licht</span>
-                                                    </figcaption>
+                                                <img src="images/IMG_4282.jpg"
+                                                     alt="Beleuchtete U-Bahn-Station in Hamburg">
+
+                                                <figcaption>
+                                                    <strong>Hamburg U-Bahn</strong>
+                                                    <span>Architektur · Symmetrie und Licht</span>
+                                                </figcaption>
+
+                                                <label for="photo-lightbox-2"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Hamburg U-Bahn vergr&ouml;&szlig;ert anzeigen">
                                                 </label>
                                             </figure>
 
                                             <figure class="portfolio-item item-3">
-                                                <label for="photo-lightbox-3" class="portfolio-image">
-                                                    <img src="images/IMG_6845_1.jpg"
-                                                         alt="Makroaufnahme einer Springspinne">
-                                                    <figcaption>
-                                                        <strong>Springspinne</strong>
-                                                        <span>Makro · Available Light</span>
-                                                    </figcaption>
+                                                <img src="images/IMG_6845_1.jpg"
+                                                     alt="Makroaufnahme einer Springspinne">
+
+                                                <figcaption>
+                                                    <strong>Springspinne</strong>
+                                                    <span>Makro · Available Light</span>
+                                                </figcaption>
+
+                                                <label for="photo-lightbox-3"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Makroaufnahme einer Springspinne vergr&ouml;&szlig;ert anzeigen">
                                                 </label>
                                             </figure>
 
                                             <figure class="portfolio-item item-4">
-                                                <label for="photo-lightbox-4" class="portfolio-image">
-                                                    <img src="images/IMG_7646_3.jpg"
-                                                         alt="Edinburgh bei tief stehender Sonne">
-                                                    <figcaption>
-                                                        <strong>Edinburgh</strong>
-                                                        <span>Stadt · Abendlicht</span>
-                                                    </figcaption>
+                                                <img src="images/IMG_7646_3.jpg"
+                                                     alt="Edinburgh bei tief stehender Sonne">
+
+                                                <figcaption>
+                                                    <strong>Edinburgh</strong>
+                                                    <span>Stadt · Abendlicht</span>
+                                                </figcaption>
+
+                                                <label for="photo-lightbox-4"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Edinburgh bei tief stehender Sonne vergr&ouml;&szlig;ert anzeigen">
                                                 </label>
                                             </figure>
 
                                             <figure class="portfolio-item item-5">
-                                                <label for="photo-lightbox-5" class="portfolio-image">
-                                                    <img src="images/SinCity.jpg"
-                                                         alt="Schwarzweißaufnahme mit roten Lichtspuren">
-                                                    <figcaption>
-                                                        <strong>Sin City</strong>
-                                                        <span>Bildgestaltung · Chroma Key</span>
-                                                    </figcaption>
+                                                <img src="images/SinCity.jpg"
+                                                     alt="Schwarzweißaufnahme mit roten Lichtspuren">
+
+                                                <figcaption>
+                                                    <strong>Sin City</strong>
+                                                    <span>Bildgestaltung · Chroma Key</span>
+                                                </figcaption>
+
+                                                <label for="photo-lightbox-5"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Schwarzweißaufnahme mit roten Lichtspuren vergr&ouml;&szlig;ert anzeigen">
                                                 </label>
                                             </figure>
 
                                             <figure class="portfolio-item item-6">
-                                                <label for="photo-lightbox-6" class="portfolio-image">
-                                                    <img src="images/IMG_7570_1.jpg"
-                                                         alt="Forth Bridge über dem Firth of Forth">
-                                                    <figcaption>
-                                                        <strong>Landschaft</strong>
-                                                        <span>Landschaft · Architektur im Raum · Monochrom</span>
-                                                    </figcaption>
+                                                <img src="images/IMG_7570_1.jpg"
+                                                     alt="Forth Bridge über dem Firth of Forth">
+
+                                                <figcaption>
+                                                    <strong>Landschaft</strong>
+                                                    <span>Landschaft · Architektur im Raum · Monochrom</span>
+                                                </figcaption>
+
+                                                <label for="photo-lightbox-6"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Forth Bridge über dem Firth of Forth vergr&ouml;&szlig;ert anzeigen">
                                                 </label>
                                             </figure>
 
@@ -493,5 +470,61 @@
                 </div>
             </div>
         </div>
+
+        <div class="photo-modal photo-modal-1">
+            <label for="photo-lightbox-1"
+                   class="photo-modal-close"
+                   aria-label="Bild schließen">
+                <span>×</span>
+            </label>
+            <img src="images/IMG_2088.jpg"
+                 alt="Verschneite Baumallee bei Nacht">
+        </div>
+        <div class="photo-modal photo-modal-2">
+            <label for="photo-lightbox-2"
+                   class="photo-modal-close"
+                   aria-label="Bild schließen">
+                <span>×</span>
+            </label>
+            <img src="images/IMG_4282.jpg"
+                 alt="Beleuchtete U-Bahn in Hamburg">
+        </div>
+        <div class="photo-modal photo-modal-3">
+            <label for="photo-lightbox-3"
+                   class="photo-modal-close"
+                   aria-label="Bild schließen">
+                <span>×</span>
+            </label>
+            <img src="images/IMG_6845_1.jpg"
+                 alt="Makroaufnahme einer Springspinne">
+        </div>
+        <div class="photo-modal photo-modal-4">
+            <label for="photo-lightbox-4"
+                   class="photo-modal-close"
+                   aria-label="Bild schließen">
+                <span>×</span>
+            </label>
+            <img src="images/IMG_7646_3.jpg"
+                 alt="Edinburgh bei tief stehender Sonne">
+        </div>
+        <div class="photo-modal photo-modal-5">
+            <label for="photo-lightbox-5"
+                   class="photo-modal-close"
+                   aria-label="Bild schließen">
+                <span>×</span>
+            </label>
+            <img src="images/SinCity.jpg"
+                 alt="Schwarzweißaufnahme mit roten Lichtspuren">
+        </div>
+        <div class="photo-modal photo-modal-6">
+            <label for="photo-lightbox-6"
+                   class="photo-modal-close"
+                   aria-label="Bild schließen">
+                <span>×</span>
+            </label>
+            <img src="images/IMG_7570_1.jpg"
+                 alt="Forth Bridge über dem Firth of Forth">
+        </div>
+
     </body>
 </html>
