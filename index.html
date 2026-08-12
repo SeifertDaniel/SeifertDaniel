@@ -219,12 +219,13 @@
 
                         <div class="description">
 
-                            <input type="checkbox" id="photo-lightbox-1">
-                            <input type="checkbox" id="photo-lightbox-2">
-                            <input type="checkbox" id="photo-lightbox-3">
-                            <input type="checkbox" id="photo-lightbox-4">
-                            <input type="checkbox" id="photo-lightbox-5">
-                            <input type="checkbox" id="photo-lightbox-6">
+                            <input type="radio" name="lightbox" id="photo-lightbox-none" checked>
+                            <input type="radio" name="lightbox" id="photo-lightbox-1">
+                            <input type="radio" name="lightbox" id="photo-lightbox-2">
+                            <input type="radio" name="lightbox" id="photo-lightbox-3">
+                            <input type="radio" name="lightbox" id="photo-lightbox-4">
+                            <input type="radio" name="lightbox" id="photo-lightbox-5">
+                            <input type="radio" name="lightbox" id="photo-lightbox-6">
 
                             <input type="radio" name="foto-page" id="foto-overview" checked>
                             <input type="radio" name="foto-page" id="foto-keys">
@@ -451,59 +452,109 @@
             </div>
         </div>
 
-        <div class="photo-modal photo-modal-1">
-            <label for="photo-lightbox-1"
-                   class="photo-modal-close"
-                   aria-label="Bild schließen">
-                <span>×</span>
-            </label>
-            <img src="images/IMG_2088.jpg"
-                 alt="Verschneite Baumallee bei Nacht">
-        </div>
-        <div class="photo-modal photo-modal-2">
-            <label for="photo-lightbox-2"
-                   class="photo-modal-close"
-                   aria-label="Bild schließen">
-                <span>×</span>
-            </label>
-            <img src="images/IMG_4282.jpg"
-                 alt="Beleuchtete U-Bahn in Hamburg">
-        </div>
-        <div class="photo-modal photo-modal-3">
-            <label for="photo-lightbox-3"
-                   class="photo-modal-close"
-                   aria-label="Bild schließen">
-                <span>×</span>
-            </label>
-            <img src="images/IMG_6845_1.jpg"
-                 alt="Makroaufnahme einer Springspinne">
-        </div>
-        <div class="photo-modal photo-modal-4">
-            <label for="photo-lightbox-4"
-                   class="photo-modal-close"
-                   aria-label="Bild schließen">
-                <span>×</span>
-            </label>
-            <img src="images/IMG_7646_3.jpg"
-                 alt="Edinburgh bei tief stehender Sonne">
-        </div>
-        <div class="photo-modal photo-modal-5">
-            <label for="photo-lightbox-5"
-                   class="photo-modal-close"
-                   aria-label="Bild schließen">
-                <span>×</span>
-            </label>
-            <img src="images/SinCity.jpg"
-                 alt="Schwarzweißaufnahme mit roten Lichtspuren">
-        </div>
-        <div class="photo-modal photo-modal-6">
-            <label for="photo-lightbox-6"
-                   class="photo-modal-close"
-                   aria-label="Bild schließen">
-                <span>×</span>
-            </label>
-            <img src="images/IMG_7570_1.jpg"
-                 alt="Forth Bridge über dem Firth of Forth">
+        <div class="photo-modals">
+            <div class="photo-modal photo-modal-1">
+                <label for="photo-lightbox-6" class="lightbox-prev">
+                    ‹
+                </label>
+                <label for="photo-lightbox-none" class="lightbox-image">
+                    <img src="images/IMG_2088.jpg"
+                         alt="Verschneite Baumallee bei Nacht">
+                </label>
+                <label for="photo-lightbox-2" class="lightbox-next">
+                    ›
+                </label>
+                <label for="photo-lightbox-none"
+                       class="photo-modal-close"
+                       aria-label="Bild schließen">
+                    <span>×</span>
+                </label>
+            </div>
+            <div class="photo-modal photo-modal-2">
+                <label for="photo-lightbox-1" class="lightbox-prev">
+                    ‹
+                </label>
+                <label for="photo-lightbox-none" class="lightbox-image">
+                    <img src="images/IMG_4282.jpg"
+                         alt="Beleuchtete U-Bahn in Hamburg">
+                </label>
+                <label for="photo-lightbox-3" class="lightbox-next">
+                    ›
+                </label>
+                <label for="photo-lightbox-none"
+                       class="photo-modal-close"
+                       aria-label="Bild schließen">
+                    <span>×</span>
+                </label>
+            </div>
+            <div class="photo-modal photo-modal-3">
+                <label for="photo-lightbox-2" class="lightbox-prev">
+                    ‹
+                </label>
+                <label for="photo-lightbox-none" class="lightbox-image">
+                    <img src="images/IMG_6845_1.jpg"
+                         alt="Makroaufnahme einer Springspinne">
+                </label>
+                <label for="photo-lightbox-4" class="lightbox-next">
+                    ›
+                </label>
+                <label for="photo-lightbox-none"
+                       class="photo-modal-close"
+                       aria-label="Bild schließen">
+                    <span>×</span>
+                </label>
+            </div>
+            <div class="photo-modal photo-modal-4">
+                <label for="photo-lightbox-3" class="lightbox-prev">
+                    ‹
+                </label>
+                <label for="photo-lightbox-none" class="lightbox-image">
+                    <img src="images/IMG_7646_3.jpg"
+                         alt="Edinburgh bei tief stehender Sonne">
+                </label>
+                <label for="photo-lightbox-5" class="lightbox-next">
+                    ›
+                </label>
+                <label for="photo-lightbox-none"
+                       class="photo-modal-close"
+                       aria-label="Bild schließen">
+                    <span>×</span>
+                </label>
+            </div>
+            <div class="photo-modal photo-modal-5">
+                <label for="photo-lightbox-4" class="lightbox-prev">
+                    ‹
+                </label>
+                <label for="photo-lightbox-none" class="lightbox-image">
+                    <img src="images/SinCity.jpg"
+                         alt="Schwarzweißaufnahme mit roten Lichtspuren">
+                </label>
+                <label for="photo-lightbox-6" class="lightbox-next">
+                    ›
+                </label>
+                <label for="photo-lightbox-none"
+                       class="photo-modal-close"
+                       aria-label="Bild schließen">
+                    <span>×</span>
+                </label>
+            </div>
+            <div class="photo-modal photo-modal-6">
+                <label for="photo-lightbox-5" class="lightbox-prev">
+                    ‹
+                </label>
+                <label for="photo-lightbox-none" class="lightbox-image">
+                    <img src="images/IMG_7570_1.jpg"
+                         alt="Forth Bridge über dem Firth of Forth">
+                </label>
+                <label for="photo-lightbox-1" class="lightbox-next">
+                    ›
+                </label>
+                <label for="photo-lightbox-none"
+                       class="photo-modal-close"
+                       aria-label="Bild schließen">
+                    <span>×</span>
+                </label>
+            </div>
         </div>
 
     </body>

@@ -656,24 +656,71 @@ body:has(#photo-lightbox-6:checked) .photo-modal-6 {
     pointer-events: none;
 }
 
-.photo-modal-close {
+.lightbox-prev,
+.lightbox-next {
     position: absolute;
-    inset: 0;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 64px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(255,255,255,.75);
+    font-size: 3rem;
+    line-height: 1;
+
+    cursor: pointer;
+    z-index: 3;
+
+    transition:
+            color .2s ease,
+            background-color .2s ease;
+}
+
+.lightbox-prev {
+    left: 10px;
+}
+
+.lightbox-next {
+    right: 10px;
+}
+
+.lightbox-prev:hover,
+.lightbox-next:hover {
+    color: #fff;
+    background: rgba(255,255,255,.08);
+}
+
+.lightbox-image {
+    position: relative;
+    z-index: 2;
 
     cursor: zoom-out;
 }
 
-.photo-modal-close span {
+.photo-modal-close {
     position: absolute;
     top: 20px;
     right: 28px;
 
-    z-index: 2;
+    width: 44px;
+    height: 44px;
+
+    cursor: zoom-out;
+    z-index: 3;
+}
+
+.photo-modal-close span {
+    display: block;
 
     color: rgba(255,255,255,.8);
-
     font-size: 2rem;
-    line-height: 1;
+    line-height: 44px;
+    text-align: center;
 
     transition: color .2s ease;
 }
