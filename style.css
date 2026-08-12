@@ -116,6 +116,14 @@ h2 {
     margin: 0 0 0.5rem 0;
 }
 
+.card-layout .card-header {
+    color: black;
+    background: linear-gradient(
+            rgba(255,255,255,.55),
+            rgba(255,255,255,.25),
+            transparent
+    );
+}
 
 /* ---------------------------------------
  * Inhaltsverzeichnis
@@ -174,17 +182,20 @@ h2 {
 }
 
 #prog-overview:checked ~ .card-viewport .card-pages,
-#foto-overview:checked ~ .card-viewport .card-pages {
+#foto-overview:checked ~ .card-viewport .card-pages,
+#layout-overview:checked ~ .card-viewport .card-pages {
     transform: translateX(0%);
 }
 
 #prog-skills:checked ~ .card-viewport .card-pages,
-#foto-keys:checked ~ .card-viewport .card-pages {
+#foto-keys:checked ~ .card-viewport .card-pages,
+#layout-keys:checked ~ .card-viewport .card-pages {
     transform: translateX(-25%);
 }
 
 #prog-profile:checked ~ .card-viewport .card-pages,
-#foto-portfolio:checked ~ .card-viewport .card-pages {
+#foto-portfolio:checked ~ .card-viewport .card-pages,
+#layout-portfolio:checked ~ .card-viewport .card-pages {
     transform: translateX(-50%);
 }
 
@@ -193,7 +204,10 @@ h2 {
 #prog-profile:checked ~ .card-header .toc label[for="prog-profile"],
 #foto-overview:checked ~ .card-header .toc label[for="foto-overview"],
 #foto-keys:checked ~ .card-header .toc label[for="foto-keys"],
-#foto-portfolio:checked ~ .card-header .toc label[for="foto-portfolio"] {
+#foto-portfolio:checked ~ .card-header .toc label[for="foto-portfolio"],
+#layout-overview:checked ~ .card-header .toc label[for="foto-overview"],
+#layout-keys:checked ~ .card-header .toc label[for="foto-keys"],
+#layout-portfolio:checked ~ .card-header .toc label[for="foto-portfolio"] {
     opacity: 1;
 }
 
@@ -269,19 +283,22 @@ h2 {
 }
 
 #prog-overview:checked ~ .card-header .quote.overview,
-#foto-overview:checked ~ .card-header .quote.overview {
+#foto-overview:checked ~ .card-header .quote.overview,
+#layout-overview:checked ~ .card-header .quote.overview {
     opacity: 1;
     transform: translateY(0);
 }
 
 #prog-skills:checked ~ .card-header .quote.skills,
-#foto-keys:checked ~ .card-header .quote.keys {
+#foto-keys:checked ~ .card-header .quote.keys,
+#layout-keys:checked ~ .card-header .quote.keys {
     opacity: 1;
     transform: translateY(0);
 }
 
 #prog-profile:checked ~ .card-header .quote.profile,
-#foto-portfolio:checked ~ .card-header .quote.portfolio {
+#foto-portfolio:checked ~ .card-header .quote.portfolio,
+#layout-portfolio:checked ~ .card-header .quote.portfolio {
     opacity: 1;
     transform: translateY(0);
 }

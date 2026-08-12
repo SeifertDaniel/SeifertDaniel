@@ -430,25 +430,270 @@
                     </div>
                 </div>
 
-                <input type="radio" name="slide" id="c4" >
+                <input type="radio" name="slide" id="c4">
                 <div for="c4" class="card card-layout">
                     <label for="c4" class="card-trigger" aria-label="Layout öffnen"></label>
                     <div class="row">
+
                         <div class="icon">Layout</div>
+
                         <div class="description">
-                            <h2>Layout</h2>
-                            <p>&Auml;sthetik mit Fokus. Gestaltung mit System.</p>
-                            <p>
-                                <span class="tag">#Grafikdesign</span>
-                                <span class="tag">#DTP</span>
-                                <span class="tag">#Typografie</span>
-                                <span class="tag">#Layout</span>
-                            </p>
-                            <p>Print & Web • Klarheit im Design • Stilsichere Details</p>
-                            <blockquote>"Form und Funktion im Gleichgewicht."</blockquote>
+
+                            <input type="radio" name="lightbox" id="layout-lightbox-none" checked>
+                            <input type="radio" name="lightbox" id="layout-lightbox-1">
+                            <input type="radio" name="lightbox" id="layout-lightbox-2">
+                            <input type="radio" name="lightbox" id="layout-lightbox-3">
+                            <input type="radio" name="lightbox" id="layout-lightbox-4">
+                            <input type="radio" name="lightbox" id="layout-lightbox-5">
+                            <input type="radio" name="lightbox" id="layout-lightbox-6">
+
+                            <input type="radio" name="layout-page" id="layout-overview" checked>
+                            <input type="radio" name="layout-page" id="layout-keys">
+                            <input type="radio" name="layout-page" id="layout-portfolio">
+
+                            <div class="card-header">
+                                <h2>Layout</h2>
+
+                                <nav class="toc">
+                                    <label for="layout-overview">Denken</label>
+                                    <label for="layout-keys">Schwerpunkte</label>
+                                    <label for="layout-portfolio">Portfolio</label>
+                                </nav>
+
+                                <div class="chapter-quotes">
+                                    <blockquote class="quote overview">
+                                        Form und Funktion im Gleichgewicht.
+                                    </blockquote>
+
+                                    <blockquote class="quote keys">
+                                        Ich suche nicht nach mehr. Ich suche nach dem Richtigen.
+                                    </blockquote>
+
+                                    <blockquote class="quote portfolio">
+                                        Ich möchte Dinge gestalten, die man gern benutzt und gern betrachtet.
+                                    </blockquote>
+                                </div>
+                            </div>
+
+                            <div class="card-viewport">
+
+                                <div class="card-pages">
+                                    <section class="card-page overview">
+                                        <h3>Denken</h3>
+
+                                        <p>
+                                            Gestaltung beginnt für mich nicht mit Farben, Schriften oder einzelnen Elementen, sondern mit der Frage, was eine Seite, ein Bild oder ein Medium eigentlich leisten soll.
+                                        </p>
+                                        <p>
+
+                                            Ich mag klare Strukturen, bewusste Reduktion und Gestaltung, die dem Inhalt Raum gibt. Dabei darf eine Lösung durchaus charakteristisch sein. Sie sollte sich nur nie wichtiger machen als das, was sie vermittelt.
+                                        </p>
+                                        <p>
+                                            Besonders spannend finde ich die Verbindung von Gestaltung und Technik. Gute Ideen müssen für mich nicht nur visuell funktionieren, sondern auch praktisch umsetzbar, verständlich und langfristig sinnvoll sein.
+                                        </p>
+                                    </section>
+
+                                    <section class="card-page keys">
+
+                                        <div class="keys-group">
+                                            <h3>Typografie</h3>
+                                            <div class="tags">
+                                                <span class="tag">Schriftwahl</span>
+                                                <span class="tag">Hierarchie</span>
+                                                <span class="tag">Lesbarkeit</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="keys-group">
+                                            <h3>Layout</h3>
+                                            <div class="tags">
+                                                <span class="tag">Aufbau</span>
+                                                <span class="tag">Raster</span>
+                                                <span class="tag">Proportionen</span>
+                                                <span class="tag">Weißraum</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="keys-group">
+                                            <h3>Grafikdesign</h3>
+                                            <div class="tags">
+                                                <span class="tag">visuelle Konzepte</span>
+                                                <span class="tag">Logos</span>
+                                                <span class="tag">Illustration</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="keys-group">
+                                            <h3>DTP</h3>
+                                            <div class="tags">
+                                                <span class="tag">Satz</span>
+                                                <span class="tag">Print</span>
+                                                <span class="tag">Druckvorstufe</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="keys-group">
+                                            <h3>User Interface</h3>
+                                            <div class="tags">
+                                                <span class="tag">Bedienoberflächen</span>
+                                                <span class="tag">Interaktionen</span>
+                                                <span class="tag">Responsive Design</span>
+                                            </div>
+                                        </div>
+
+                                        <div class="keys-group">
+                                            <h3>Bildbearbeitung</h3>
+                                            <div class="tags">
+                                                <span class="tag">Retusche</span>
+                                                <span class="tag">Compositing</span>
+                                            </div>
+                                        </div>
+                                    </section>
+
+                                    <section class="card-page portfolio">
+
+                                        <input type="radio" name="layout-portfolio" id="layout-p1" checked>
+                                        <input type="radio" name="layout-portfolio" id="layout-p2">
+                                        <input type="radio" name="layout-portfolio" id="layout-p3">
+                                        <input type="radio" name="layout-portfolio" id="layout-p4">
+                                        <input type="radio" name="layout-portfolio" id="layout-p5">
+                                        <input type="radio" name="layout-portfolio" id="layout-p6">
+
+                                        <div class="portfolio-stage">
+<!--Inteon Logo-->
+<!--D3 VCards-->
+<!--DS Cards-->
+<!--Weblayout Hover Selector -->
+<!--Comic-->
+                                            <figure class="portfolio-item item-1">
+                                                <img src="images/IMG_2088.jpg"
+                                                     alt="Verschneite Baumallee bei Nacht">
+
+                                                <figcaption>
+                                                    <strong>Winternacht</strong>
+                                                    <span>Natur · Langzeitbelichtung · Available Light</span>
+                                                </figcaption>
+
+                                                <label for="layout-lightbox-1"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Winternacht vergr&ouml;&szlig;ert anzeigen">
+                                                </label>
+                                            </figure>
+
+                                            <figure class="portfolio-item item-2">
+                                                <img src="images/IMG_4282.jpg"
+                                                     alt="Beleuchtete U-Bahn-Station in Hamburg">
+
+                                                <figcaption>
+                                                    <strong>Hamburg U-Bahn</strong>
+                                                    <span>Architektur · Symmetrie und Licht</span>
+                                                </figcaption>
+
+                                                <label for="layout-lightbox-2"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Hamburg U-Bahn vergr&ouml;&szlig;ert anzeigen">
+                                                </label>
+                                            </figure>
+
+                                            <figure class="portfolio-item item-3">
+                                                <img src="images/IMG_6845_1.jpg"
+                                                     alt="Makroaufnahme einer Springspinne">
+
+                                                <figcaption>
+                                                    <strong>Springspinne</strong>
+                                                    <span>Makro · Available Light</span>
+                                                </figcaption>
+
+                                                <label for="layout-lightbox-3"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Makroaufnahme einer Springspinne vergr&ouml;&szlig;ert anzeigen">
+                                                </label>
+                                            </figure>
+
+                                            <figure class="portfolio-item item-4">
+                                                <img src="images/IMG_7646_3.jpg"
+                                                     alt="Edinburgh bei tief stehender Sonne">
+
+                                                <figcaption>
+                                                    <strong>Edinburgh</strong>
+                                                    <span>Stadt · Abendlicht</span>
+                                                </figcaption>
+
+                                                <label for="layout-lightbox-4"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Edinburgh bei tief stehender Sonne vergr&ouml;&szlig;ert anzeigen">
+                                                </label>
+                                            </figure>
+
+                                            <figure class="portfolio-item item-5">
+                                                <img src="images/SinCity.jpg"
+                                                     alt="st&auml;dtische Schwarzweißaufnahme mit roten Lichtspuren">
+
+                                                <figcaption>
+                                                    <strong>Sin City</strong>
+                                                    <span>Bildgestaltung · Chroma Key</span>
+                                                </figcaption>
+
+                                                <label for="layout-lightbox-5"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Schwarzweißaufnahme mit roten Lichtspuren vergr&ouml;&szlig;ert anzeigen">
+                                                </label>
+                                            </figure>
+
+                                            <figure class="portfolio-item item-6">
+                                                <img src="images/IMG_7570_1.jpg"
+                                                     alt="Forth Bridge über dem Firth of Forth">
+
+                                                <figcaption>
+                                                    <strong>Forth Bridge</strong>
+                                                    <span>Landschaft · Architektur im Raum · Monochrom</span>
+                                                </figcaption>
+
+                                                <label for="layout-lightbox-6"
+                                                       class="portfolio-lightbox-trigger"
+                                                       aria-label="Forth Bridge über dem Firth of Forth vergr&ouml;&szlig;ert anzeigen">
+                                                </label>
+                                            </figure>
+
+                                        </div>
+
+                                        <nav class="portfolio-nav">
+                                            <label for="layout-p1">Natur</label>
+                                            <label for="layout-p2">Architektur</label>
+                                            <label for="layout-p3">Makro</label>
+                                            <label for="layout-p4">Stadt</label>
+                                            <label for="layout-p5">Gestaltung</label>
+                                            <label for="layout-p6">Landschaft</label>
+                                        </nav>
+
+                                    </section>
+                                </div>
+                            </div>
+
                         </div>
+
                     </div>
                 </div>
+
+<!--                <input type="radio" name="slide" id="c4" >-->
+<!--                <div for="c4" class="card card-layout">-->
+<!--                    <label for="c4" class="card-trigger" aria-label="Layout öffnen"></label>-->
+<!--                    <div class="row">-->
+<!--                        <div class="icon">Layout</div>-->
+<!--                        <div class="description">-->
+<!--                            <h2>Layout</h2>-->
+<!--                            <p>&Auml;sthetik mit Fokus. Gestaltung mit System.</p>-->
+<!--                            <p>-->
+<!--                                <span class="tag">#Grafikdesign</span>-->
+<!--                                <span class="tag">#DTP</span>-->
+<!--                                <span class="tag">#Typografie</span>-->
+<!--                                <span class="tag">#Layout</span>-->
+<!--                            </p>-->
+<!--                            <p>Print & Web • Klarheit im Design • Stilsichere Details</p>-->
+<!--                            <blockquote>"Form und Funktion im Gleichgewicht."</blockquote>-->
+<!--                        </div>-->
+<!--                    </div>-->
+<!--                </div>-->
             </div>
         </div>
 
