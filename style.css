@@ -994,6 +994,16 @@ input:checked + .card .row .icon {
         font-size: 0.78rem
     }
 
+    .portfolio-nav {
+        justify-content: space-between;
+    }
+
+    .portfolio-nav label {
+        padding: 3px 2px;
+        font-size: .68rem;
+        white-space: nowrap;
+    }
+
     .portfolio-item img {
         max-width: fit-content;
         max-height: 100%;
