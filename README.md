@@ -14,8 +14,8 @@
 - [d3datadevelopment/oxtotp](https://github.com/d3datadevelopment/oxtotp) -  (2 months ago)
 - [d3datadevelopment/oxidservicebridges](https://github.com/d3datadevelopment/oxidservicebridges) -  (2 months ago)
 - [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (3 months ago)
-- [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (3 months ago)
-- [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (3 months ago)
+- [FriendsOfOxid/security-advisories-core](https://github.com/FriendsOfOxid/security-advisories-core) -  (4 months ago)
+- [FriendsOfOxid/security-advisories](https://github.com/FriendsOfOxid/security-advisories) -  (4 months ago)
 
 #### 🌱 My latest projects
 
