@@ -1,3 +1,7 @@
+/* =========================================================
+   Global
+   ========================================================= */
+
 @font-face {
     font-family: "Atkinson Hyperlegible Next";
     src: url("/AtkinsonHyperlegibleNext-Regular.woff2") format("woff2");
@@ -24,6 +28,10 @@ h2 {
     font-size: 1.5em;
 }
 
+/* =========================================================
+   Grundlayout
+   ========================================================= */
+
 .wrapper {
     width: 100%;
     height: 100vh;
@@ -39,18 +47,18 @@ h2 {
     justify-content: start;
 }
 
-.card {
-    width: 80px;
-    background-size: cover;
-    overflow: hidden;
-    border-radius: 2rem;
-    margin: 0 10px;
-    display: flex;
-    align-items: flex-end;
-    transition: .6s cubic-bezier(.28,-0.03,0,.99);
-    box-shadow: 0 10px 30px -5px rgba(0,0,0,0.8);
+.container > .card:first-of-type > .row {
     position: relative;
 }
+
+.container > .card:first-of-type > .row > .description {
+    width: 440px;
+    justify-content: center;
+}
+
+/* =========================================================
+   Kartenstruktur
+   ========================================================= */
 
 .card > .row {
     color: white;
@@ -104,16 +112,9 @@ h2 {
     cursor: pointer;
 }
 
-/* ---------------------------------------
- * Kartenkopf
- * --------------------------------------- */
-
-.card-header {
-    position: sticky;
-    top: 0;
-    padding: 0;
-    border-bottom: 1px solid rgba(255,255,255,0.5);
-}
+/* =========================================================
+   Kartenkopf und Inhaltsnavigation
+   ========================================================= */
 
 .card-header h2 {
     font-size: 1.4rem;
@@ -122,13 +123,22 @@ h2 {
     margin: 0 0 0.5rem 0;
 }
 
-/* ---------------------------------------
- * Inhaltsverzeichnis
- * --------------------------------------- */
+#prog-overview:checked ~ .card-viewport .card-pages,
+#foto-overview:checked ~ .card-viewport .card-pages,
+#layout-overview:checked ~ .card-viewport .card-pages {
+    transform: translateX(0%);
+}
 
-.toc {
-    margin-top: 4px;
-    gap: 14px;
+#prog-skills:checked ~ .card-viewport .card-pages,
+#foto-keys:checked ~ .card-viewport .card-pages,
+#layout-keys:checked ~ .card-viewport .card-pages {
+    transform: translateX(-25%);
+}
+
+#prog-profile:checked ~ .card-viewport .card-pages,
+#foto-portfolio:checked ~ .card-viewport .card-pages,
+#layout-portfolio:checked ~ .card-viewport .card-pages {
+    transform: translateX(-50%);
 }
 
 .toc label {
@@ -161,42 +171,6 @@ h2 {
     background: rgba(255,255,255,.9);
 }
 
-.card-viewport {
-    overflow: hidden;
-    width: 100%;
-    height: 100%;
-}
-
-.card-pages {
-    display: flex;
-    width: 400%;
-    transition: transform .45s cubic-bezier(.28,-0.03,0,.99);
-    scroll-behavior: smooth;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-    padding-right: 0;
-    scroll-snap-type: y mandatory;
-    height: 100%;
-}
-
-#prog-overview:checked ~ .card-viewport .card-pages,
-#foto-overview:checked ~ .card-viewport .card-pages,
-#layout-overview:checked ~ .card-viewport .card-pages {
-    transform: translateX(0%);
-}
-
-#prog-skills:checked ~ .card-viewport .card-pages,
-#foto-keys:checked ~ .card-viewport .card-pages,
-#layout-keys:checked ~ .card-viewport .card-pages {
-    transform: translateX(-25%);
-}
-
-#prog-profile:checked ~ .card-viewport .card-pages,
-#foto-portfolio:checked ~ .card-viewport .card-pages,
-#layout-portfolio:checked ~ .card-viewport .card-pages {
-    transform: translateX(-50%);
-}
-
 #prog-overview:checked ~ .card-header .toc label[for="prog-overview"],
 #prog-skills:checked ~ .card-header .toc label[for="prog-skills"],
 #prog-profile:checked ~ .card-header .toc label[for="prog-profile"],
@@ -209,14 +183,58 @@ h2 {
     opacity: 1;
 }
 
+#prog-overview:checked ~ .card-header .quote.overview,
+#foto-overview:checked ~ .card-header .quote.overview,
+#layout-overview:checked ~ .card-header .quote.overview {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#prog-skills:checked ~ .card-header .quote.skills,
+#foto-keys:checked ~ .card-header .quote.keys,
+#layout-keys:checked ~ .card-header .quote.keys {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+#prog-profile:checked ~ .card-header .quote.profile,
+#foto-portfolio:checked ~ .card-header .quote.portfolio,
+#layout-portfolio:checked ~ .card-header .quote.portfolio {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* =========================================================
+   Karteninhalte und Seiten
+   ========================================================= */
+
+.card-viewport {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+}
+
 .card-viewport::-webkit-scrollbar {
     display: none;
 }
+
 .card-viewport h3 {
     margin: 0 0 14px;
     font-size: 1rem;
     font-weight: 600;
     color: white;
+}
+
+.card-pages {
+    display: flex;
+    width: 400%;
+    transition: transform .45s cubic-bezier(.28,-0.03,0,.99);
+    scroll-behavior: smooth;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding-right: 0;
+    scroll-snap-type: y mandatory;
+    height: 100%;
 }
 
 .card-page {
@@ -241,6 +259,27 @@ h2 {
     max-width: 56ch;
 }
 
+.card-page.skills,
+.card-page.profile,
+.card-page.keys,
+.card-page.portfolio {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
+    gap: 1rem 1.5rem;
+    align-content: start;
+}
+
+.card-page.portfolio {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem 1.5rem;
+    padding: 0;
+}
+
+/* =========================================================
+   Inhalt / Text / Tags
+   ========================================================= */
+
 .description p {
     color: #dedede;
     margin: 0;
@@ -248,6 +287,29 @@ h2 {
 
 .description p + p {
     margin-top: 0.5rem;
+}
+
+.description p > span.tag {
+    background-color: rgba(255,255,255,0.3);
+    border-radius: 3px;
+    padding: 3px;
+    text-decoration: none;
+    transition: all .3s ease;
+    line-height: 26px;
+    color: white;
+}
+
+.description p > span.tag:hover {
+    background-color: rgba(255,255,255,0.6);
+}
+
+.description p a {
+    color: white;
+    text-decoration: underline;
+}
+
+.description h4 {
+    text-transform: uppercase;
 }
 
 .chapter-quotes {
@@ -279,113 +341,48 @@ h2 {
             transform .28s ease;
 }
 
-#prog-overview:checked ~ .card-header .quote.overview,
-#foto-overview:checked ~ .card-header .quote.overview,
-#layout-overview:checked ~ .card-header .quote.overview {
-    opacity: 1;
-    transform: translateY(0);
+.skill-group,
+.keys-group {
+    margin: 0;
 }
 
-#prog-skills:checked ~ .card-header .quote.skills,
-#foto-keys:checked ~ .card-header .quote.keys,
-#layout-keys:checked ~ .card-header .quote.keys {
-    opacity: 1;
-    transform: translateY(0);
+.skill-group h3,
+.keys-group h3 {
+    margin: 0 0 .2rem;
+    font-size: .8rem;
+    font-weight: 500;
 }
 
-#prog-profile:checked ~ .card-header .quote.profile,
-#foto-portfolio:checked ~ .card-header .quote.portfolio,
-#layout-portfolio:checked ~ .card-header .quote.portfolio {
-    opacity: 1;
-    transform: translateY(0);
+.skill-group .tags,
+.keys-group .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .35rem;
 }
 
-.description p > span.tag {
-    background-color: rgba(255,255,255,0.3);
-    border-radius: 3px;
-    padding: 3px;
-    text-decoration: none;
-    transition: all .3s ease;
-    line-height: 26px;
-    color: white;
+.tag {
+    padding: .1rem .4rem;
+    border-radius: .4rem;
+    background: rgba(255,255,255,.08);
+    border: 1px solid rgba(255,255,255,.18);
+    color: rgba(255,255,255,.92);
+    font-size: .7rem;
+    white-space: nowrap;
 }
 
-.description p > span.tag:hover {
-    background-color: rgba(255,255,255,0.6);
-}
+/* =========================================================
+   Kontaktkarte
+   ========================================================= */
 
-.description h4 {
-    text-transform: uppercase;
-}
-
-input {
-    display: none;
-}
-
-input:checked + .card {
-    width: 600px;
-}
-
-input:checked + .card .description {
-    opacity: 1 !important;
-    transform: none !important;
-}
-
-.card-contact {
-    background-image: url('./img1.jpeg');
-}
-.card-programming {
-    background-image: url('./img2.jpeg');
-}
-.card-photography {
-    background-image: url('./img3.jpeg');
-}
-.card-layout {
-    background-image: url('./img4.jpeg');
-}
-
-/***************/ 
-
-.description .card {
-    position: relative;
-    width: 350px;
-    height: 190px;
-    background: #fff;
-    border-radius: 20px;
-    box-shadow: 0 35px 80px rgba(0,0,0,0.15);
-    transition: 0.5s;
-    cursor: default;
-    overflow: unset;
-}
 .description .card:hover {
     height: 300px;
 }
-.description .imgBx {
-    position: absolute;
-    left: 50%;
-    top: -50px;
-    transform: translateX(-50%);
-    width: 150px;
-    height: 150px;
-    background: #fff;
-    border-radius: 20px;
-    box-shadow: 0 15px 50px rgba(0,0,0,0.35);
-    overflow: hidden;
-    transition: 0.5s;
-}
+
 .description .card:hover .imgBx {
     width: 200px;
     height: 200px;
 }
-.description .imgBx img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    object-position: 5% 35%;
-}
+
 .description .card .content {
     position: absolute;
     width: 100%;
@@ -395,6 +392,7 @@ input:checked + .card .description {
     align-items: flex-end;
     overflow: hidden;
 }
+
 .description .card .content .details {
     padding: 60px 30px;
     text-align: center;
@@ -403,33 +401,39 @@ input:checked + .card .description {
     transition: all 0.5s ease 0s;
     transform: translateY(100px);
 }
+
 .description .card:hover .content .details {
     transform: translateY(0);
     padding-bottom: 20px;
     padding-top: 20px;
 }
+
 .description .card .content .details h2 {
     font-size: 1.25em;
     font-weight: 600;
     color: #555;
     line-height: 1.2em;
 }
+
 .description .card .content .details h2 span {
     font-size: 0.75em;
     font-weight: 500;
     opacity: 0.5;
 }
+
 .description .card .content .details .data {
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
 }
+
 .description .card .content .details .data h3 {
     font-size: 1em;
     color: #555;
     line-height: 1.2em;
     font-weight: 600;
 }
+
 .description .card .content .details .data h3 span {
     font-size: 0.85em;
     font-weight: 400;
@@ -488,106 +492,33 @@ input:checked + .card .description {
     box-shadow: 0 8px 20px rgba(0,0,0,.18);
 }
 
-.card-page.skills,
-.card-page.profile,
-.card-page.keys,
-.card-page.portfolio {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px,1fr));
-    gap: 1rem 1.5rem;
-    align-content: start;
-}
-
-.card-page.portfolio {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem 1.5rem;
-    padding: 0;
-}
-
-.skill-group,
-.keys-group {
-    margin: 0;
-}
-
-.skill-group h3,
-.keys-group h3 {
-    margin: 0 0 .2rem;
-    font-size: .8rem;
-    font-weight: 500;
-}
-
-.skill-group .tags,
-.keys-group .tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: .35rem;
-}
-
-.tag {
-    padding: .1rem .4rem;
-    border-radius: .4rem;
-    background: rgba(255,255,255,.08);
-    border: 1px solid rgba(255,255,255,.18);
-    color: rgba(255,255,255,.92);
-    font-size: .7rem;
-    white-space: nowrap;
-}
-
-/* =========================================================
-   Fotografie / Portfolio
-   ========================================================= */
-
-.portfolio {
-    position: relative;
-    overflow: hidden;
-}
-
-/* Radio-Steuerung */
-
-.portfolio > input[type="radio"] {
+.description .imgBx {
     position: absolute;
-    opacity: 0;
-    pointer-events: none;
+    left: 50%;
+    top: -50px;
+    transform: translateX(-50%);
+    width: 150px;
+    height: 150px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 15px 50px rgba(0,0,0,0.35);
+    overflow: hidden;
+    transition: 0.5s;
 }
 
-
-/* =========================================================
-   Bildbereich
-   ========================================================= */
-
-.portfolio-stage {
-    position: relative;
-    flex: 1 1 auto;
-    min-height: 0;
+.description .imgBx img {
+    position: absolute;
+    top: 0;
+    left: 0;
     width: 100%;
-    overflow: hidden;
-    border: 1px solid rgba(255,255,255,0.5);
-    border-top: none;
+    height: 100%;
+    object-fit: cover;
+    object-position: 5% 35%;
 }
-
 
 /* =========================================================
-   Einzelnes Portfolio-Bild
+   Portfolio
    ========================================================= */
-
-.portfolio-item {
-    position: absolute;
-    inset: 0;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    opacity: 0;
-    visibility: hidden;
-    transform: scale(1.015);
-
-    transition:
-            opacity .45s ease,
-            transform .45s ease,
-            visibility .45s ease;
-}
 
 .portfolio-item img {
     display: block;
@@ -607,18 +538,39 @@ input:checked + .card .description {
     cursor: pointer;
 }
 
-/* ========================================
-   Foto-Lightbox
-   ======================================== */
+.portfolio-item figcaption strong {
+    display: block;
 
-#photo-lightbox-1,
-#photo-lightbox-2,
-#photo-lightbox-3,
-#photo-lightbox-4,
-#photo-lightbox-5,
-#photo-lightbox-6 {
-    display: none;
+    margin-bottom: 2px;
+
+    font-size: .95rem;
 }
+
+.portfolio-item figcaption span {
+    opacity: .85;
+}
+
+.portfolio-nav label {
+    cursor: pointer;
+
+    padding: 3px 7px;
+
+    color: rgba(255, 255, 255, .62);
+
+    font-size: .72rem;
+
+    transition:
+            color .25s ease,
+            background-color .25s ease;
+}
+
+.portfolio-nav label:hover {
+    color: #fff;
+}
+
+/* =========================================================
+   Lightbox
+   ========================================================= */
 
 body:has(#photo-lightbox-1:checked) .photo-modal-1,
 body:has(#photo-lightbox-2:checked) .photo-modal-2,
@@ -635,6 +587,30 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
+}
+
+/* =========================================================
+   Zustände und Kartendarstellung
+   ========================================================= */
+
+input:checked + .card {
+    width: 600px;
+}
+
+input:checked + .card .description {
+    opacity: 1 !important;
+    transform: none !important;
+}
+
+#c1:checked + .card .card-trigger,
+#c2:checked + .card .card-trigger,
+#c3:checked + .card .card-trigger,
+#c4:checked + .card .card-trigger {
+    display: none;
+}
+
+input:checked + .card .row .icon {
+    opacity: 0;
 }
 
 .photo-modal,
@@ -678,52 +654,6 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
     pointer-events: none;
 }
 
-.lightbox-prev,
-.lightbox-next {
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-
-    width: 64px;
-    height: 100px;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    color: rgba(255,255,255,.75);
-    font-size: 3rem;
-    line-height: 1;
-
-    cursor: pointer;
-    z-index: 3;
-
-    transition:
-            color .2s ease,
-            background-color .2s ease;
-}
-
-.lightbox-prev {
-    left: 10px;
-}
-
-.lightbox-next {
-    right: 10px;
-}
-
-.lightbox-prev:hover,
-.lightbox-next:hover {
-    color: #fff;
-    background: rgba(255,255,255,.08);
-}
-
-.lightbox-image {
-    position: relative;
-    z-index: 2;
-
-    cursor: zoom-out;
-}
-
 .photo-modal-close,
 .layout-modal-close {
     position: absolute;
@@ -754,6 +684,210 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
     color: white;
 }
 
+.lightbox-prev,
+.lightbox-next {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+    width: 64px;
+    height: 100px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    color: rgba(255,255,255,.75);
+    font-size: 3rem;
+    line-height: 1;
+
+    cursor: pointer;
+    z-index: 3;
+
+    transition:
+            color .2s ease,
+            background-color .2s ease;
+}
+
+.lightbox-prev {
+    left: 10px;
+}
+
+.lightbox-prev:hover,
+.lightbox-next:hover {
+    color: #fff;
+    background: rgba(255,255,255,.08);
+}
+
+.lightbox-next {
+    right: 10px;
+}
+
+.lightbox-image {
+    position: relative;
+    z-index: 2;
+
+    cursor: zoom-out;
+}
+
+input {
+    display: none;
+}
+
+input#c1:checked + .card > .row {
+    background: none;
+    backdrop-filter: none;
+}
+
+input#c2:checked + .card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 100%);
+}
+
+input#c3:checked + .card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 100%);
+}
+
+input#c4:checked + .card > .row {
+    background: linear-gradient(0deg, rgba(0,0,0,0.65) 30%, rgba(0,0,0,0.25) 100%);
+}
+
+.card-contact {
+    background-image: url('./img1.jpeg');
+}
+
+.card-programming {
+    background-image: url('./img2.jpeg');
+}
+
+.card-photography {
+    background-image: url('./img3.jpeg');
+}
+
+.card-layout {
+    background-image: url('./img4.jpeg');
+}
+
+.card:not(.card-contact) > .row > .description {
+    font-size: 0.8rem;
+}
+
+.description > .card:first-of-type {
+    margin: 40px auto 0;
+}
+
+.card {
+    width: 80px;
+    background-size: cover;
+    overflow: hidden;
+    border-radius: 2rem;
+    margin: 0 10px;
+    display: flex;
+    align-items: flex-end;
+    transition: .6s cubic-bezier(.28,-0.03,0,.99);
+    box-shadow: 0 10px 30px -5px rgba(0,0,0,0.8);
+    position: relative;
+}
+
+/* ---------------------------------------
+ * Kartenkopf
+ * --------------------------------------- */
+
+.card-header {
+    position: sticky;
+    top: 0;
+    padding: 0;
+    border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+
+/* ---------------------------------------
+ * Inhaltsverzeichnis
+ * --------------------------------------- */
+
+.toc {
+    margin-top: 4px;
+    gap: 14px;
+}
+
+/***************/ 
+
+.description .card {
+    position: relative;
+    width: 350px;
+    height: 190px;
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0 35px 80px rgba(0,0,0,0.15);
+    transition: 0.5s;
+    cursor: default;
+    overflow: unset;
+}
+
+/* =========================================================
+   Fotografie / Portfolio
+   ========================================================= */
+
+.portfolio {
+    position: relative;
+    overflow: hidden;
+}
+
+/* Radio-Steuerung */
+
+.portfolio > input[type="radio"] {
+    position: absolute;
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* =========================================================
+   Bildbereich
+   ========================================================= */
+
+.portfolio-stage {
+    position: relative;
+    flex: 1 1 auto;
+    min-height: 0;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid rgba(255,255,255,0.5);
+    border-top: none;
+}
+
+/* =========================================================
+   Einzelnes Portfolio-Bild
+   ========================================================= */
+
+.portfolio-item {
+    position: absolute;
+    inset: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    opacity: 0;
+    visibility: hidden;
+    transform: scale(1.015);
+
+    transition:
+            opacity .45s ease,
+            transform .45s ease,
+            visibility .45s ease;
+}
+
+/* ========================================
+   Foto-Lightbox
+   ======================================== */
+
+#photo-lightbox-1,
+#photo-lightbox-2,
+#photo-lightbox-3,
+#photo-lightbox-4,
+#photo-lightbox-5,
+#photo-lightbox-6 {
+    display: none;
+}
+
 /* =========================================================
    Bildbeschriftung
    ========================================================= */
@@ -780,19 +914,6 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
     pointer-events: none;
 }
 
-.portfolio-item figcaption strong {
-    display: block;
-
-    margin-bottom: 2px;
-
-    font-size: .95rem;
-}
-
-.portfolio-item figcaption span {
-    opacity: .85;
-}
-
-
 /* =========================================================
    Aktives Bild
    ========================================================= */
@@ -814,7 +935,6 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
     transform: scale(1);
 }
 
-
 /* =========================================================
    Navigation
    ========================================================= */
@@ -825,25 +945,6 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
     flex-wrap: wrap;
     gap: 4px;
 }
-
-.portfolio-nav label {
-    cursor: pointer;
-
-    padding: 3px 7px;
-
-    color: rgba(255, 255, 255, .62);
-
-    font-size: .72rem;
-
-    transition:
-            color .25s ease,
-            background-color .25s ease;
-}
-
-.portfolio-nav label:hover {
-    color: #fff;
-}
-
 
 /* aktive Kategorie */
 
@@ -867,52 +968,10 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
 input:checked + .card > .row {
     backdrop-filter: blur(3px);
 }
-input#c1:checked + .card > .row {
-    background: none;
-    backdrop-filter: none;
-}
-input#c2:checked + .card > .row {
-    background: linear-gradient(0deg, rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 100%);
-}
-input#c3:checked + .card > .row {
-    background: linear-gradient(0deg, rgba(0,0,0,0.7) 30%, rgba(0,0,0,0) 100%);
-}
-input#c4:checked + .card > .row {
-    background: linear-gradient(0deg, rgba(0,0,0,0.65) 30%, rgba(0,0,0,0.25) 100%);
-}
 
-#c1:checked + .card .card-trigger,
-#c2:checked + .card .card-trigger,
-#c3:checked + .card .card-trigger,
-#c4:checked + .card .card-trigger {
-    display: none;
-}
-
-.card:not(.card-contact) > .row > .description {
-    font-size: 0.8rem;
-}
-
-.description > .card:first-of-type {
-    margin: 40px auto 0;
-}
-
-.container > .card:first-of-type > .row {
-    position: relative;
-}
-
-.container > .card:first-of-type > .row > .description {
-    width: 440px;
-    justify-content: center;
-}
-
-input:checked + .card .row .icon {
-    opacity: 0;
-}
-
-.description p a {
-    color: white;
-    text-decoration: underline;
-}
+/* =========================================================
+   Responsive Anpassungen
+   ========================================================= */
 
 @media screen and (max-width: 992px) and (min-width: 700px) {
     .wrapper {
