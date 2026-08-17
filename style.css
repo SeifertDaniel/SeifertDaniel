@@ -110,10 +110,6 @@ h2 {
     margin: 0 0 0.5rem 0;
 }
 
-.card-layout .card-header {
-    color: white;
-}
-
 /* ---------------------------------------
  * Inhaltsverzeichnis
  * --------------------------------------- */
@@ -168,6 +164,7 @@ h2 {
     -ms-overflow-style: none;
     padding-right: 0;
     scroll-snap-type: y mandatory;
+    height: 100%;
 }
 
 #prog-overview:checked ~ .card-viewport .card-pages,
@@ -952,10 +949,12 @@ input:checked + .card .row .icon {
         width: 60px;
     }
     .card > .row {
+        background: linear-gradient(90deg, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 100%);
         rotate: -90deg;
         top: 85px;
         left: 85px;
     }
+
     .card > .row > .icon {
         rotate: none;
         top: 0;
