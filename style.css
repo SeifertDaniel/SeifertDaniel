@@ -56,32 +56,44 @@ h2 {
     color: white;
     display: flex;
     flex-wrap: nowrap;
+    background: linear-gradient(0deg, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 100%);
+    position: relative;
+    backdrop-filter: blur(0);
+    transition: backdrop-filter .6s ease;
 }
 
 .card > .row > .icon {
-    background: #223;
+    background: none;
     color: white;
     border-radius: 50%;
-    width: 50px;
+    width: 400px;
+    height: 80px;
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
-    margin: 15px;
+    margin: 0;
     opacity: 1;
     transition: all .3s ease;
+    cursor: pointer;
+    rotate: -90deg;
+    position: absolute;
+    left: -160px;
+    top: 160px;
+    padding: 20px;
 }
 
 .card > .row > .description {
     display: flex;
-    justify-content: center;
+    justify-content: end;
     flex-direction: column;
     overflow: hidden;
-    height: 80px;
-    width: 520px;
+    height: 370px;
+    width: 505px;
     opacity: 0;
     transform: translateY(30px);
     transition-delay: .3s;
     transition: all .3s ease;
+    margin: 15px 15px 15px 80px;
 }
 
 .card-trigger {
@@ -852,13 +864,6 @@ body:has(#layout-lightbox-6:checked) .layout-modal-6 {
 
 /**************************/
 
-.card > .row {
-    background: linear-gradient(0deg, rgba(0,0,0,0.5) 30%, rgba(0,0,0,0) 100%);
-    position: relative;
-    backdrop-filter: blur(0);
-    transition: backdrop-filter .6s ease;
-}
-
 input:checked + .card > .row {
     backdrop-filter: blur(3px);
 }
@@ -883,29 +888,8 @@ input#c4:checked + .card > .row {
     display: none;
 }
 
-.card > .row > .description {
-    height: 370px;
-    width: 505px;
-    justify-content: end;
-    margin: 15px 15px 15px 80px;
-}
-
 .card:not(.card-contact) > .row > .description {
     font-size: 0.8rem;
-}
-
-.card > .row > .icon {
-    background: none;
-    cursor: pointer;
-    justify-content: start;
-    rotate: -90deg;
-    height: 80px;
-    width: 400px;
-    position: absolute;
-    left: -160px;
-    top: 160px;
-    margin: 0;
-    padding: 20px;
 }
 
 .description > .card:first-of-type {
@@ -1001,11 +985,6 @@ input:checked + .card .row .icon {
         gap: .3rem;
     }
 
-    .skill-group,
-    .keys-group {
-        margin: 0;
-    }
-
     .skill-group h3,
     .keys-group h3 {
         margin-bottom: .15rem;
@@ -1033,7 +1012,7 @@ input:checked + .card .row .icon {
     }
 
     .card:not(.card-contact) > .row > .description {
-        font-size: 0.78rem
+        font-size: 0.78rem;
     }
 
     .portfolio-nav {
