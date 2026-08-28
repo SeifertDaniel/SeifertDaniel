@@ -11,6 +11,24 @@
                 visibility: hidden;
                 pointer-events: none;
             }
+
+            .legal-link {
+                position: fixed;
+                right: 1rem;
+                bottom: 0.75rem;
+                z-index: 1100;
+                color: #555;
+                font-size: 0.75rem;
+                text-decoration: none;
+                opacity: 0.7;
+                transition: opacity 0.2s ease;
+            }
+
+            .legal-link:hover,
+            .legal-link:focus-visible {
+                opacity: 1;
+                text-decoration: underline;
+            }
         </style>
 
         <title>Daniel Seifert</title>
@@ -880,5 +898,6 @@
             </div>
         </div>
 
+        <a class="legal-link" href="impressum-datenschutz.html">Impressum / Datenschutz</a>
     </body>
 </html>
