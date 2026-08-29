@@ -546,6 +546,13 @@ h2 {
     font-size: .95rem;
 }
 
+.portfolio-item figcaption a {
+    color: #fff;
+    z-index: 4;
+    position: relative;
+    pointer-events: auto;
+}
+
 .portfolio-item figcaption span {
     opacity: .85;
 }
