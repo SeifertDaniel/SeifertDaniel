@@ -20,10 +20,6 @@ body {
     background-color: #eeeeea;
 }
 
-h1 {
-    display: none;
-}
-
 h2 {
     font-size: 1.5em;
 }
@@ -416,6 +412,7 @@ label[for]:focus-visible {
     padding-top: 20px;
 }
 
+.description .card .content .details h1,
 .description .card .content .details h2 {
     font-size: 1.25em;
     font-weight: 600;
@@ -423,6 +420,7 @@ label[for]:focus-visible {
     line-height: 1.2em;
 }
 
+.description .card .content .details h1 span,
 .description .card .content .details h2 span {
     font-size: 0.75em;
     font-weight: 500;

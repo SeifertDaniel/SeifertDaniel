@@ -47,12 +47,11 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <h1>Daniel Seifert</h1>
-        <div class="wrapper">
+        <main class="wrapper">
             <div class="container">
 
                 <input type="radio" name="slide" id="c1" checked>
-                <div class="card card-contact">
+                <section class="card card-contact" aria-labelledby="contact-heading">
                     
                     <div class="row">
                         <div class="icon" role="button" tabindex="0" aria-expanded="true">Kontakt</div>
@@ -63,8 +62,8 @@
                                 </div>
                                 <div class="content">
                                     <div class="details">
-                                        <h2>Daniel Seifert<br>
-                                        <span>Code / Fotografie / Layout</span></h2>
+                                        <h1 id="contact-heading">Daniel Seifert<br>
+                                        <span>Code / Fotografie / Layout</span></h1>
                                         <div class="actionBtn">
                                             <a href="https://linkedin.daniel-seifert.com/" target="_blank" rel="noopener">
                                                 Profil
@@ -81,10 +80,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </section>
 
                 <input type="radio" name="slide" id="c2">
-                <div class="card card-programming">
+                <section class="card card-programming" aria-labelledby="programming-heading">
                     
 
                     <div class="row">
@@ -98,7 +97,7 @@
                             <input type="radio" name="prog-page" id="prog-profile">
 
                             <div class="card-header">
-                                <h2>Programmierung</h2>
+                                <h2 id="programming-heading">Programmierung</h2>
 
                                 <nav class="toc">
                                     <label for="prog-overview">Denken</label>
@@ -238,10 +237,10 @@
                         </div>
 
                     </div>
-                </div>
+                </section>
 
                 <input type="radio" name="slide" id="c3">
-                <div class="card card-photography">
+                <section class="card card-photography" aria-labelledby="photography-heading">
                     
                     <div class="row">
 
@@ -262,7 +261,7 @@
                             <input type="radio" name="foto-page" id="foto-portfolio">
 
                             <div class="card-header">
-                                <h2>Fotografie</h2>
+                                <h2 id="photography-heading">Fotografie</h2>
 
                                 <nav class="toc">
                                     <label for="foto-overview">Denken</label>
@@ -470,10 +469,10 @@
                         </div>
 
                     </div>
-                </div>
+                </section>
 
                 <input type="radio" name="slide" id="c4">
-                <div class="card card-layout">
+                <section class="card card-layout" aria-labelledby="layout-heading">
                     
                     <div class="row">
 
@@ -494,7 +493,7 @@
                             <input type="radio" name="layout-page" id="layout-portfolio">
 
                             <div class="card-header">
-                                <h2>Layout</h2>
+                                <h2 id="layout-heading">Layout</h2>
 
                                 <nav class="toc">
                                     <label for="layout-overview">Denken</label>
@@ -694,7 +693,7 @@
                                                      loading="lazy" decoding="async">
 
                                                 <figcaption>
-                                                    <strong>Comic <a href="https://www.LunaUndLeon.de/" target="_blank">Luna &amp; Leon</a></strong>
+                                                    <strong>Comic <a href="https://www.LunaUndLeon.de/" target="_blank" rel="noopener noreferrer">Luna &amp; Leon</a></strong>
                                                     <span>Konzeption · Comicgestaltung · Seitenlayout · Bildsprache</span>
                                                 </figcaption>
 
@@ -720,9 +719,9 @@
                             </div>
                         </div>
                     </div>
-                </div>
+                </section>
             </div>
-        </div>
+        </main>
 
         <div class="lightbox-modal" aria-hidden="true">
             <button type="button" class="lightbox-prev" aria-label="Vorheriges Bild">‹</button>
