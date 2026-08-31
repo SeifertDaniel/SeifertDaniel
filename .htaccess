@@ -47,3 +47,20 @@
     ExpiresByType image/webp "access plus 1 month"
     ExpiresByType image/avif "access plus 1 month"
 </IfModule>
+
+RewriteEngine on
+
+# Remove trailing slash from non-filepath urls
+RewriteCond %{REQUEST_URI} [.]+
+RewriteCond %{REQUEST_URI} /(.+)/$
+RewriteRule ^ https://www.daniel-seifert.com/%1 [R=301,L]
+
+# Include trailing slash on directory
+RewriteCond %{REQUEST_URI} !(.+)/$
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^(.+)$ https://www.daniel-seifert.com/$1/ [R=301,L]
+
+# Force HTTPS and WWW
+RewriteCond %{HTTP_HOST} !^www\.(.*)$ [OR,NC]
+RewriteCond %{https} off
+RewriteRule ^(.*)$ https://www.daniel-seifert.com/$1 [R=301,L]
