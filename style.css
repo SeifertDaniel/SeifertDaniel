@@ -597,18 +597,8 @@ label[for]:focus-visible {
    Lightbox
    ========================================================= */
 
-body:has(#photo-lightbox-1:checked) .photo-modal-1,
-body:has(#photo-lightbox-2:checked) .photo-modal-2,
-body:has(#photo-lightbox-3:checked) .photo-modal-3,
-body:has(#photo-lightbox-4:checked) .photo-modal-4,
-body:has(#photo-lightbox-5:checked) .photo-modal-5,
-body:has(#photo-lightbox-6:checked) .photo-modal-6,
-body:has(#layout-lightbox-1:checked) .layout-modal-1,
-body:has(#layout-lightbox-2:checked) .layout-modal-2,
-body:has(#layout-lightbox-3:checked) .layout-modal-3,
-body:has(#layout-lightbox-4:checked) .layout-modal-4,
-body:has(#layout-lightbox-5:checked) .layout-modal-5,
-body:has(#layout-lightbox-6:checked) .layout-modal-6 {
+body:has(input[id^="photo-lightbox-"]:checked:not([id$="-none"])) .lightbox-modal,
+body:has(input[id^="layout-lightbox-"]:checked:not([id$="-none"])) .lightbox-modal {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
@@ -638,8 +628,7 @@ input:checked + .card .row .icon {
     opacity: 0;
 }
 
-.photo-modal,
-.layout-modal {
+.lightbox-modal {
     position: fixed;
     inset: 0;
     z-index: 1000;
@@ -656,8 +645,7 @@ input:checked + .card .row .icon {
             visibility .3s ease;
 }
 
-.photo-modal img,
-.layout-modal img {
+.lightbox-modal img {
     position: relative;
     z-index: 1;
 
@@ -676,11 +664,10 @@ input:checked + .card .row .icon {
 
     box-shadow: 0 20px 60px rgba(0, 0, 0, .6);
 
-    pointer-events: none;
+    pointer-events: auto;
 }
 
-.photo-modal-close,
-.layout-modal-close {
+.lightbox-close {
     position: absolute;
     top: 20px;
     right: 28px;
@@ -692,8 +679,7 @@ input:checked + .card .row .icon {
     z-index: 3;
 }
 
-.photo-modal-close span,
-.layout-modal-close span {
+.lightbox-close span {
     display: block;
 
     color: rgba(255,255,255,.8);
@@ -704,8 +690,7 @@ input:checked + .card .row .icon {
     transition: color .2s ease;
 }
 
-.photo-modal-close:hover span,
-.layout-modal-close:hover span {
+.lightbox-close:hover span {
     color: white;
 }
 
@@ -732,6 +717,24 @@ input:checked + .card .row .icon {
     transition:
             color .2s ease,
             background-color .2s ease;
+}
+
+.lightbox-prev,
+.lightbox-next,
+.lightbox-close {
+    border: 0;
+    background: transparent;
+    font: inherit;
+}
+
+.lightbox-prev,
+.lightbox-next {
+    font-size: 2rem;
+}
+
+.lightbox-modal button:focus-visible {
+    outline: 2px solid #fff;
+    outline-offset: 3px;
 }
 
 .lightbox-prev {
@@ -1114,8 +1117,7 @@ input:checked + .card > .row {
         max-height: 100%;
     }
 
-    .photo-modal,
-    .layout-modal {
+    .lightbox-modal {
         background: rgba(0, 0, 0, .75);
     }
 }
