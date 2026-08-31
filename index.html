@@ -41,9 +41,9 @@
 
                 <input type="radio" name="slide" id="c1" checked>
                 <div class="card card-contact">
-                    <button type="button" class="card-trigger" aria-label="Kontakt &ouml;ffnen"></button>
+                    
                     <div class="row">
-                        <div class="icon">Kontakt</div>
+                        <div class="icon" role="button" tabindex="0" aria-expanded="true">Kontakt</div>
                         <div class="description">
                             <div class="card">
                                 <div class="imgBx">
@@ -73,11 +73,11 @@
 
                 <input type="radio" name="slide" id="c2">
                 <div class="card card-programming">
-                    <button type="button" class="card-trigger" aria-label="Programmierung &ouml;ffnen"></button>
+                    
 
                     <div class="row">
 
-                        <div class="icon">Programmierung</div>
+                        <div class="icon" role="button" tabindex="0" aria-expanded="false">Programmierung</div>
 
                         <div class="description">
 
@@ -230,10 +230,10 @@
 
                 <input type="radio" name="slide" id="c3">
                 <div class="card card-photography">
-                    <button type="button" class="card-trigger" aria-label="Fotografie &ouml;ffnen"></button>
+                    
                     <div class="row">
 
-                        <div class="icon">Fotografie</div>
+                        <div class="icon" role="button" tabindex="0" aria-expanded="false">Fotografie</div>
 
                         <div class="description">
 
@@ -462,10 +462,10 @@
 
                 <input type="radio" name="slide" id="c4">
                 <div class="card card-layout">
-                    <button type="button" class="card-trigger" aria-label="Layout &ouml;ffnen"></button>
+                    
                     <div class="row">
 
-                        <div class="icon">Layout</div>
+                        <div class="icon" role="button" tabindex="0" aria-expanded="false">Layout</div>
 
                         <div class="description">
 
@@ -724,7 +724,7 @@
         <script>
             (() => {
                 const labels = document.querySelectorAll('label[for]');
-                const cardTriggers = document.querySelectorAll('.card-trigger');
+                const cardTriggers = document.querySelectorAll('.container > .card > .row > .icon');
                 const radioInputs = document.querySelectorAll('input[type="radio"]');
                 const lightboxImage = document.querySelector('.lightbox-shared-image');
                 const lightboxImages = {
@@ -784,6 +784,12 @@
                     trigger.addEventListener('click', () => {
                         activateInput(trigger.closest('.card').previousElementSibling);
                     });
+                    trigger.addEventListener('keydown', (event) => {
+                        if (event.key === 'Enter' || event.key === ' ') {
+                            event.preventDefault();
+                            activateInput(trigger.closest('.card').previousElementSibling);
+                        }
+                    });
                 });
 
                 labels.forEach((label) => {
@@ -829,10 +835,11 @@
                 const updateAccessibilityState = () => {
                     document.querySelectorAll('.container > input[name="slide"]').forEach((input) => {
                         const card = input.nextElementSibling;
-                        const trigger = card.querySelector('.card-trigger');
+                        const trigger = card.querySelector('.row > .icon');
                         trigger.setAttribute('aria-expanded', input.checked ? 'true' : 'false');
-                        trigger.tabIndex = input.checked ? 0 : -1;
-                        card.setAttribute('aria-hidden', input.checked ? 'false' : 'true');
+                        trigger.tabIndex = input.checked ? -1 : 0;
+                        card.setAttribute('aria-hidden', 'false');
+                        card.querySelector('.description').setAttribute('aria-hidden', input.checked ? 'false' : 'true');
                         card.querySelectorAll('label[for]').forEach((label) => {
                             label.tabIndex = input.checked ? 0 : -1;
                         });
@@ -851,6 +858,14 @@
                         const item = portfolio.querySelector(`.portfolio-item.item-${input.id.slice(-1)}`);
                         if (input.checked && item) {
                             setHiddenState(portfolio.querySelectorAll('.portfolio-item'), item);
+                        }
+                    });
+
+                    document.querySelectorAll('.container > input[name="slide"]').forEach((input) => {
+                        if (!input.checked) {
+                            input.nextElementSibling.querySelectorAll('label[for]').forEach((label) => {
+                                label.tabIndex = -1;
+                            });
                         }
                     });
 
@@ -877,11 +892,18 @@
                 radioInputs.forEach((input) => input.addEventListener('change', updateAccessibilityState));
 
                 document.addEventListener('keydown', (event) => {
+                    const openLightbox = getActiveLightbox();
+
+                    if (openLightbox && (event.key === 'ArrowLeft' || event.key === 'ArrowRight')) {
+                        event.preventDefault();
+                        changeLightbox(event.key === 'ArrowLeft' ? -1 : 1);
+                        return;
+                    }
+
                     if (event.key !== 'Escape') {
                         return;
                     }
 
-                    const openLightbox = getActiveLightbox();
                     if (openLightbox) {
                         const closeInput = document.getElementById(`${openLightbox.id.split('-')[0]}-lightbox-none`);
                         closeInput.checked = true;
