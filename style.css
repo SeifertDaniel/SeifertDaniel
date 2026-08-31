@@ -68,7 +68,9 @@ h2 {
 
 .card > .row > .icon {
     background: none;
+    border: 0;
     color: white;
+    font: inherit;
     border-radius: 50%;
     width: 400px;
     height: 80px;
@@ -79,6 +81,7 @@ h2 {
     opacity: 1;
     transition: all .3s ease;
     cursor: pointer;
+    text-align: left;
     rotate: -90deg;
     position: absolute;
     left: -160px;
@@ -747,8 +750,16 @@ input:checked + .card .row .icon {
     cursor: zoom-out;
 }
 
-input {
-    display: none;
+input[type="radio"] {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+    border: 0;
 }
 
 input#c1:checked + .card > .row {
@@ -895,15 +906,6 @@ input#c4:checked + .card > .row {
 /* ========================================
    Foto-Lightbox
    ======================================== */
-
-#photo-lightbox-1,
-#photo-lightbox-2,
-#photo-lightbox-3,
-#photo-lightbox-4,
-#photo-lightbox-5,
-#photo-lightbox-6 {
-    display: none;
-}
 
 /* =========================================================
    Bildbeschriftung

@@ -12,10 +12,14 @@
         <meta property="og:url" content="https://www.daniel-seifert.com/">
         <meta property="og:title" content="Daniel Seifert | Programmierung, Fotografie und Layout">
         <meta property="og:description" content="Portfolio von Daniel Seifert mit Schwerpunkten in Programmierung, Fotografie und Layoutgestaltung.">
+        <meta property="og:image" content="https://www.daniel-seifert.com/images/social.jpg">
+        <meta property="og:image:alt" content="Beleuchtete U-Bahn-Station in Hamburg">
 
-        <meta name="twitter:card" content="summary">
+        <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="Daniel Seifert | Programmierung, Fotografie und Layout">
         <meta name="twitter:description" content="Portfolio von Daniel Seifert mit Schwerpunkten in Programmierung, Fotografie und Layoutgestaltung.">
+        <meta name="twitter:image" content="https://www.daniel-seifert.com/images/social.jpg">
+        <meta name="twitter:image:alt" content="Beleuchtete U-Bahn-Station in Hamburg">
 
         <style>
             .lightbox-modal {
@@ -51,11 +55,11 @@
             <div class="container">
 
                 <input type="radio" name="slide" id="c1" checked aria-label="Kontakt">
-                <section class="card card-contact" aria-labelledby="contact-heading">
+                <section class="card card-contact" aria-labelledby="contact-trigger">
                     
                     <div class="row">
-                        <div class="icon" role="button" tabindex="0" aria-expanded="true">Kontakt</div>
-                        <div class="description">
+                        <button type="button" id="contact-trigger" class="icon" aria-expanded="true" aria-controls="contact-panel">Kontakt</button>
+                        <div id="contact-panel" class="description">
                             <div class="card">
                                 <div class="imgBx">
                                     <img src="me_contact_bw.jpg" alt="Daniel Seifert" width="215" height="320" decoding="async">
@@ -83,14 +87,13 @@
                 </section>
 
                 <input type="radio" name="slide" id="c2" aria-label="Programmierung">
-                <section class="card card-programming" aria-labelledby="programming-heading">
-                    
+                <section class="card card-programming" aria-labelledby="programming-trigger">
 
                     <div class="row">
 
-                        <div class="icon" role="button" tabindex="0" aria-expanded="false">Programmierung</div>
+                        <button type="button" id="programming-trigger" class="icon" aria-expanded="false" aria-controls="programming-panel">Programmierung</button>
 
-                        <div class="description">
+                        <div id="programming-panel" class="description">
 
                             <input type="radio" name="prog-page" id="prog-overview" checked aria-label="Denken">
                             <input type="radio" name="prog-page" id="prog-skills" aria-label="Fähigkeiten">
@@ -240,13 +243,13 @@
                 </section>
 
                 <input type="radio" name="slide" id="c3" aria-label="Fotografie">
-                <section class="card card-photography" aria-labelledby="photography-heading">
+                <section class="card card-photography" aria-labelledby="photography-trigger">
                     
                     <div class="row">
 
-                        <div class="icon" role="button" tabindex="0" aria-expanded="false">Fotografie</div>
+                        <button type="button" id="photography-trigger" class="icon" aria-expanded="false" aria-controls="photography-panel">Fotografie</button>
 
-                        <div class="description">
+                        <div id="photography-panel" class="description">
 
                             <input type="radio" name="lightbox" id="photo-lightbox-none" checked aria-label="Lightbox schließen">
                             <input type="radio" name="lightbox" id="photo-lightbox-1" aria-label="Bild 1 öffnen">
@@ -300,7 +303,7 @@
                                             Besonders reizvoll finde ich Situationen, in denen Licht und Umgebung die Bildwirkung bestimmen.
                                         </p>
                                         <p>
-                                            Technik ist dabei ein Werkzeug, welches verstanden werden muss. Entscheidend sind f&uuml;r mich Motiv, Komposition und der richtige Moment.
+                                            Technik ist dabei ein Werkzeug, das verstanden werden muss. Entscheidend sind f&uuml;r mich Motiv, Komposition und der richtige Moment.
                                         </p>
                                     </section>
 
@@ -472,13 +475,13 @@
                 </section>
 
                 <input type="radio" name="slide" id="c4" aria-label="Layout">
-                <section class="card card-layout" aria-labelledby="layout-heading">
+                <section class="card card-layout" aria-labelledby="layout-trigger">
                     
                     <div class="row">
 
-                        <div class="icon" role="button" tabindex="0" aria-expanded="false">Layout</div>
+                        <button type="button" id="layout-trigger" class="icon" aria-expanded="false" aria-controls="layout-panel">Layout</button>
 
-                        <div class="description">
+                        <div id="layout-panel" class="description">
 
                             <input type="radio" name="lightbox" id="layout-lightbox-none" checked aria-label="Lightbox schließen">
                             <input type="radio" name="lightbox" id="layout-lightbox-1" aria-label="Bild 1 öffnen">
@@ -795,12 +798,6 @@
                     trigger.addEventListener('click', () => {
                         activateInput(trigger.closest('.card').previousElementSibling);
                     });
-                    trigger.addEventListener('keydown', (event) => {
-                        if (event.key === 'Enter' || event.key === ' ') {
-                            event.preventDefault();
-                            activateInput(trigger.closest('.card').previousElementSibling);
-                        }
-                    });
                 });
 
                 labels.forEach((label) => {
@@ -900,7 +897,10 @@
                     });
                 };
 
-                radioInputs.forEach((input) => input.addEventListener('change', updateAccessibilityState));
+                radioInputs.forEach((input) => {
+                    input.tabIndex = -1;
+                    input.addEventListener('change', updateAccessibilityState);
+                });
 
                 document.addEventListener('keydown', (event) => {
                     const openLightbox = getActiveLightbox();
