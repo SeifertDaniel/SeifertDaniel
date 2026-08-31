@@ -40,8 +40,8 @@
             <div class="container">
 
                 <input type="radio" name="slide" id="c1" checked>
-                <div for="c1" class="card card-contact">
-                    <label for="c1" class="card-trigger" aria-label="Kontakt &ouml;ffnen"></label>
+                <div class="card card-contact">
+                    <button type="button" class="card-trigger" aria-label="Kontakt &ouml;ffnen"></button>
                     <div class="row">
                         <div class="icon">Kontakt</div>
                         <div class="description">
@@ -72,8 +72,8 @@
                 </div>
 
                 <input type="radio" name="slide" id="c2">
-                <div for="c2" class="card card-programming">
-                    <label for="c2" class="card-trigger" aria-label="Programmierung &ouml;ffnen"></label>
+                <div class="card card-programming">
+                    <button type="button" class="card-trigger" aria-label="Programmierung &ouml;ffnen"></button>
 
                     <div class="row">
 
@@ -229,8 +229,8 @@
                 </div>
 
                 <input type="radio" name="slide" id="c3">
-                <div for="c3" class="card card-photography">
-                    <label for="c3" class="card-trigger" aria-label="Fotografie &ouml;ffnen"></label>
+                <div class="card card-photography">
+                    <button type="button" class="card-trigger" aria-label="Fotografie &ouml;ffnen"></button>
                     <div class="row">
 
                         <div class="icon">Fotografie</div>
@@ -449,8 +449,8 @@
                 </div>
 
                 <input type="radio" name="slide" id="c4">
-                <div for="c4" class="card card-layout">
-                    <label for="c4" class="card-trigger" aria-label="Layout &ouml;ffnen"></label>
+                <div class="card card-layout">
+                    <button type="button" class="card-trigger" aria-label="Layout &ouml;ffnen"></button>
                     <div class="row">
 
                         <div class="icon">Layout</div>
@@ -899,5 +899,127 @@
         </div>
 
         <a class="legal-link" href="impressum-datenschutz.html">Impressum / Datenschutz</a>
+
+        <script>
+            (() => {
+                const labels = document.querySelectorAll('label[for]');
+                const cardTriggers = document.querySelectorAll('.card-trigger');
+                const radioInputs = document.querySelectorAll('input[type="radio"]');
+
+                const activateInput = (input) => {
+                    if (!input) {
+                        return;
+                    }
+
+                    input.checked = true;
+                    input.dispatchEvent(new Event('change', { bubbles: true }));
+                };
+
+                cardTriggers.forEach((trigger) => {
+                    trigger.addEventListener('click', () => {
+                        activateInput(trigger.closest('.card').previousElementSibling);
+                    });
+                });
+
+                labels.forEach((label) => {
+                    label.tabIndex = 0;
+                    label.setAttribute('role', 'button');
+
+                    if (label.classList.contains('lightbox-prev')) {
+                        label.setAttribute('aria-label', 'Vorheriges Bild');
+                    } else if (label.classList.contains('lightbox-next')) {
+                        label.setAttribute('aria-label', 'Nächstes Bild');
+                    } else if (label.classList.contains('lightbox-image')) {
+                        label.setAttribute('aria-label', 'Bild schließen');
+                    }
+
+                    label.addEventListener('click', (event) => {
+                        const target = document.getElementById(label.htmlFor);
+                        if (!target) {
+                            return;
+                        }
+
+                        event.preventDefault();
+                        activateInput(target);
+                    });
+
+                    label.addEventListener('keydown', (event) => {
+                        if (event.key === 'Enter' || event.key === ' ') {
+                            event.preventDefault();
+                            label.click();
+                        }
+                    });
+                });
+
+                const setHiddenState = (elements, activeElement) => {
+                    elements.forEach((element) => {
+                        const active = element === activeElement;
+                        element.setAttribute('aria-hidden', active ? 'false' : 'true');
+                        element.querySelectorAll('label[for]').forEach((label) => {
+                            label.tabIndex = active ? 0 : -1;
+                        });
+                    });
+                };
+
+                const updateAccessibilityState = () => {
+                    document.querySelectorAll('.container > input[name="slide"]').forEach((input) => {
+                        const card = input.nextElementSibling;
+                        const trigger = card.querySelector('.card-trigger');
+                        trigger.setAttribute('aria-expanded', input.checked ? 'true' : 'false');
+                        trigger.tabIndex = input.checked ? 0 : -1;
+                        card.setAttribute('aria-hidden', input.checked ? 'false' : 'true');
+                        card.querySelectorAll('label[for]').forEach((label) => {
+                            label.tabIndex = input.checked ? 0 : -1;
+                        });
+                    });
+
+                    document.querySelectorAll('input[name$="-page"]').forEach((input) => {
+                        const description = input.closest('.description');
+                        const page = description.querySelector(`.card-page.${input.id.replace(/^(prog|foto|layout)-/, '')}`);
+                        if (input.checked && page) {
+                            setHiddenState(description.querySelectorAll('.card-page'), page);
+                        }
+                    });
+
+                    document.querySelectorAll('input[name$="-portfolio"]').forEach((input) => {
+                        const portfolio = input.closest('.portfolio');
+                        const item = portfolio.querySelector(`.portfolio-item.item-${input.id.slice(-1)}`);
+                        if (input.checked && item) {
+                            setHiddenState(portfolio.querySelectorAll('.portfolio-item'), item);
+                        }
+                    });
+
+                    const activePhoto = document.querySelector('input[id^="photo-lightbox-"]:checked');
+                    const activeLayout = document.querySelector('input[id^="layout-lightbox-"]:checked');
+                    document.querySelectorAll('.photo-modal, .layout-modal').forEach((modal) => {
+                        const isPhoto = modal.classList.contains('photo-modal');
+                        const prefix = isPhoto ? 'photo' : 'layout';
+                        const activeInput = isPhoto ? activePhoto : activeLayout;
+                        const active = activeInput && !activeInput.id.endsWith('-none') && modal.classList.contains(`${prefix}-modal-${activeInput.id.split('-').pop()}`);
+                        modal.setAttribute('aria-hidden', active ? 'false' : 'true');
+                        modal.querySelectorAll('label[for]').forEach((label) => {
+                            label.tabIndex = active ? 0 : -1;
+                        });
+                    });
+                };
+
+                radioInputs.forEach((input) => input.addEventListener('change', updateAccessibilityState));
+
+                document.addEventListener('keydown', (event) => {
+                    if (event.key !== 'Escape') {
+                        return;
+                    }
+
+                    const openLightbox = document.querySelector('input[name="lightbox"]:checked:not([id$="-none"])');
+                    if (openLightbox) {
+                        const closeInput = document.getElementById(`${openLightbox.id.split('-')[0]}-lightbox-none`);
+                        closeInput.checked = true;
+                        closeInput.dispatchEvent(new Event('change', { bubbles: true }));
+                    }
+                });
+
+                updateAccessibilityState();
+            })();
+        </script>
     </body>
 </html>
