@@ -6,7 +6,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (today)
+- [FriendsOfOxid/security-advisories-plugins](https://github.com/FriendsOfOxid/security-advisories-plugins) -  (1 day ago)
 - [d3datadevelopment/Unzer](https://github.com/d3datadevelopment/Unzer) -  (1 month ago)
 - [d3datadevelopment/TPL-development-helper](https://github.com/d3datadevelopment/TPL-development-helper) - Manipulate shop standard processes for easier development (1 month ago)
 - [d3datadevelopment/Importer](https://github.com/d3datadevelopment/Importer) -  (2 months ago)
@@ -35,7 +35,7 @@
 
 - [v5.5.3 patched](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/99) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (8 months ago)
 - [syntactical errors](https://github.com/OXID-eSales/twig-theme/pull/15) on [OXID-eSales/twig-theme](https://github.com/OXID-eSales/twig-theme) (1 year ago)
-- [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (1 year ago)
+- [scans for OXID Twig patterns in addition to the standard Twig pattern](https://github.com/boxblinkracer/phpunuhi/pull/69) on [boxblinkracer/phpunuhi](https://github.com/boxblinkracer/phpunuhi) (2 years ago)
 - [prevent in_array error because of unknown salutation](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna/pull/75) on [FATCHIP-GmbH/plugin-oxid6-klarna](https://github.com/FATCHIP-GmbH/plugin-oxid6-klarna) (2 years ago)
 - [add template block around account dashboard items](https://github.com/OXID-eSales/apex-theme/pull/66) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
 - [submit on payment page don&#39;t triggers other submit events](https://github.com/OXID-eSales/apex-theme/pull/64) on [OXID-eSales/apex-theme](https://github.com/OXID-eSales/apex-theme) (2 years ago)
